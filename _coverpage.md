@@ -10,9 +10,5 @@
 **你自己**
 
 [blog](https://jdbewl.github.io/)
-<<<<<<< HEAD
-[Test-blog](https://jdbewl.github.io/yilia)
-=======
 [Test-blog](https://jdbewl.github.io/yilia)
 [Start](README)
->>>>>>> 2f95b99 (2)
