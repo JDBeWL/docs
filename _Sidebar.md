@@ -1,3 +1,3 @@
 <!-- docs/_sidebar.md -->
-- [Home](/)
+- [Home](/README.md)
 - [名言](/mingyan.md)
