@@ -18,10 +18,13 @@
       loadNavbar: true,//_navbar.md如果为真，则从_navbar.md文件加载navbar ，否则从指定的路径加载。
       mergeNavbar: true,//Navbar将在小屏幕上与侧边栏合并。
       maxLevel: 4,//最大的内容表级别。
-      subMaxLevel: 4,//在自定义边栏中添加目录（TOC）。
+      subMaxLevel: 2,//在自定义边栏中添加目录（TOC）。
       name: '名人·名言·名句',
       search: {
+        maxAge: 86400000, 
         paths: 'auto',
+        placeholder: 'type to search', 
+
         placeholder: {
           'zh-cn': '搜索',
           '/': 'Type to search'
@@ -40,7 +43,7 @@
 
         namespace: 'website-1',
 
-        pathName: ['/zh-cn']
+        pathName: ['/zh-cn'],
       },
       formatUpdated: '{MM}/{DD} {HH}:{mm}',
       plugins: [
