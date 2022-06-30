@@ -23,12 +23,24 @@
       search: {
         paths: 'auto',
         placeholder: {
+          'zh-cn': '搜索',
           '/': 'Type to search'
         },
-        noData: {
-          '/': 'No results'
-        }
 
+        noData: 'No results',
+
+        noData: {
+          'zh-cn': '搜索',
+          '/': 'No results'
+        },
+
+        depth: 2,
+
+        hideOtherSidebarContent: false, 
+
+        namespace: 'website-1',
+
+        pathName: ['/zh-cn']
       },
       formatUpdated: '{MM}/{DD} {HH}:{mm}',
       plugins: [
@@ -42,7 +54,7 @@
       ]
     }
   </script>
-  <script src="//unpkg.com/docsify/lib/plugins/search.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/emoji.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify-copy-code/dist/docsify-copy-code.min.js"></script> 
