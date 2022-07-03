@@ -9,6 +9,8 @@
 
 **你自己**
 
+## 做你认为正确的事情，希望你的选择值得被尊重
+
 [blog](https://jdbewl.github.io/)
 [Test-blog](https://jdbewl.github.io/yilia)
 [Start](README)
