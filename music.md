@@ -497,3 +497,173 @@
   明知一切 都是虚假 都是虚假
   
   —— 《不知者》 - COP/洛天依
+
+  ---
+
+* ♪Does it get easier with time for the immortal?
+
+  **就算拥有不死之身，时间是否还能为我淡化伤痛？**
+
+  ♪If I was born normal
+
+  **如果我天生平凡**
+
+  ♪If I become normal, can I stay close?
+
+  **如果我能让自己变得正常，我是否可以陪伴在你身边？**
+
+  ♪With the children, we link our arms
+
+  **与孩子们一起，我们连接手臂**
+
+  ♪Make a circle and sing a song
+
+  **组成圆圈，唱首儿歌**
+
+  ♪Knowing there was no chair for me all along
+
+  **明知这场游戏本没有可供我来抢的椅子**
+
+  ♪You locked me into the dark
+
+  **你锁我于黑暗**
+
+  ♪I’m your preserved flower
+
+  **我是一朵被你永恒保鲜的花儿**
+
+  ♪The world is too slow to understand
+
+  **对这世界而言，似乎过于新奇，无人能理会**
+
+  ♪Not all blossoms spark
+
+  **其实有些花儿并不绚丽**
+
+  ♪And spikes may be sharp
+
+  **有些荆棘尖锐致伤**
+
+  ♪They want to see just the beautiful parts
+
+  **大家只愿意注视那些最美的部分**
+
+  ♪Sitting in a shower of scarlet rain
+
+  **端坐，淋浴血色雨水**
+
+  ♪It all use to be ours
+
+  **当时的我们明明已拥有一切**
+
+  ♪I’m counting the hours
+
+  **我数着每一分每一刻**
+
+  ♪Hours that stood between us like a river
+
+  **时间仿佛河川，流动在你我之间**
+
+  ♪Once I crawled through the water
+
+  **当我爬过河底泥泞之时**
+
+  ♪All I ever knew have become distant past
+
+  **我所熟悉的一切却早已成为遥远的过去**
+
+  ♪Then a beam of golden light enters into my pupil
+
+  **一道金色光线直射我的瞳孔**
+
+  ♪Is it all unreal?
+
+  **眼前的一切是现实吗？**
+
+  ♪Tell me that it’s real cause I can’t hold back
+
+  **请告诉我这是现实，因为我已无法忍耐**
+
+  ♪The tears spill onto your arms
+
+  **泪水洒落在你的胸膛**
+
+  ♪Turn around, close your eyes, count to ten
+
+  **转身，闭眼，数到十**
+
+  ♪You never fail to find me where I was hidden
+
+  **无论我藏在哪里，你总能找到我**
+
+  ♪Now I don’t know what to wish for anymore
+
+  **我已满足，无需再期盼些什么**
+
+  ♪Other than I’d like to meet you sooner
+
+  **只愿我们的邂逅能来得更早**
+
+  ♪We may not be born the same
+
+  **虽然你我生境不同**
+
+  ♪But I’m happy we could die together
+
+  **但能终与你一死，我含笑九泉**
+
+  ♪Take my hand
+
+  **牵上我的手**
+
+  ♪Pull me from the dark
+
+  **把我拉出这片黑暗**
+
+  ♪You’re my only treasure
+
+  **你是我唯一的至宝**
+
+  ♪History was too stubborn to let me be
+
+  **对我而言，这些历史过于顽固**
+
+  ♪A regular girl in a regular world
+
+  **不允许我活在一个普通的世界里，当一个普通的女孩**
+
+  ♪Regular thoughts, regular love
+
+  **想一些普通的事，尝试一次普通的爱**
+
+  ♪You’re on your tippy toes
+
+  **你踮起脚尖**
+
+  ♪Kissing what is yours
+
+  **亲吻属于你的我**
+
+  ♪My everything is yours, yours to claim
+
+  **我的一切奉献于你，五体投地**
+
+  ♪Together we’ll be older, older
+
+  **我们将共渡岁月，共渡岁月**
+
+  ♪Our hands will have saggy skin
+
+  **直到我们手背的皮肤松弛**
+
+  ♪And our ashes golden
+
+  **直到我们的灰烬散发金光**
+
+  ♪The perfect end for us
+  
+  **对我们而言，那是个完美的结局**
+
+—— 《金装的维尔梅》ED「Mortal With You」 - Mili
+
+
