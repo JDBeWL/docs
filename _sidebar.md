@@ -5,3 +5,4 @@
 - [音乐](/music.md)
 - [游戏](/game.md)
 - [电影](/movie.md)
+- [歌词beta](/lyrics.md)
