@@ -1,1 +1,1 @@
-git commit -m "--all"
+git commit -m "update"
