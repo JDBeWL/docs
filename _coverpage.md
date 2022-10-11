@@ -12,7 +12,7 @@
 
 ## 做你认为正确的事情，希望你的选择值得被尊重
 
-[blog](https://jdbewl.github.io/)
-[Test-blog](https://jdbewl.github.io/yilia)
+[blog-1](https://jdbewl.github.io/)
+[blog-2](https://jdbewl.github.io/async)
 [Start](README)
 
