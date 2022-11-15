@@ -12,6 +12,11 @@
 
 # 日语
 
+## 25時、ナイトコードで。(Nightcord at 25:00)/プロジェクトセカイ(project SEKAI)/黑柿子P
+
+### 命に嫌われている (feat. 宵崎奏 & 初音ミク) 
+<img src="https://dsm01pap001files.storage.live.com/y4mnCk7Ytc_nmVwZOQqkpXuuSRjvuYLQcSVE0-6ZZoF00SVAmvMUXfNe9M9F77JrN9HZQnze0tpeWLhcbGvKBU82bUoUjUBeGNvVvrBxnKZYIElFOZDvWXPzV3UcuIBYeeynmTEgXjygSkXsHz30BZMnVBul-UFpAnpQjt9A5Gbzwlm-lBbDP9RkA8GmCMePU4L?width=1080&height=3757&cropmode=none" type="img/jpg" width="540">
+
 ## 花谱
 
 ### 危ノーマル (廉 Remix)
