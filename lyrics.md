@@ -1,16 +1,29 @@
-
-># 该页面存在一定问题，暂未查明原因
+# 歌词
 
 # 中文
 
 ## 洛天依
 
-### 无能为力helpless
+### 无能为力helpless - 唯Tu
 <img src="https://dsm01pap001files.storage.live.com/y4mJOVS9mv1a2gnVGQ_7_zJFws0__nNUvIpTXlT002rWni3EajtwO6lIkAeR_eCB2b-WMEamKYMBMDwpOzY5Tmnjb5q-H1te-RyvjeiPif6Uxo6UBtBsVPN_gczTv2lN6zzCcdq5SBBd8gdprlpX_qwBQsLNwwklCQCDnVbEFZkjLU81O7V_OhEm92sdxKBM6AJ?width=1080&height=4976&cropmode=none" type="img/jpg" width="540">
 
 ---
 
+### 不知者 - COP
+<img src="https://dsm01pap001files.storage.live.com/y4mzaoKEZrJtTjhiKZajJv-ReTIZ5fjByur_wIGPlav-LRQtDurcHc-LD791xPbyJhMtw4TMsppjOcj63Ph3yp5Vv8P7YJSmYYVZBCeS28gxhYH43i3vkoMBlJnaaBsJfIp29XwsV3iPbaqnbirZ-uAC6RSyN6wUuuJNzBO6NxIVYoTcRo4fuEGHkZGL7TgPOtK?width=1080&height=3136&cropmode=none" type="img/jpg" width="540">
+
+---
+
+### 影子小姐 - 著小生zoki
+
+<img src="https://dsm01pap001files.storage.live.com/y4mZ6kZKbFCOeWCveAc8kSkvVA75mXBXzC42qz-Ta9qCV7mFcEY9y7_B4klVgl7wPf7Fu9Xwz39d3wpOl3XZj6sg83Tmba2UkHFwzViMi5FXUaR6jdSR1spTXnhQYObGRuU8b8nr2UCrCXgIjNYifwBs445Xmk2l0Izt_2jujSR6wIPSOpn6AWJdYcZkAF7fJkb?width=1080&height=3379&cropmode=none" type="img/jpg" width="540">
+
 # 日语
+
+## 結束バンド
+
+### ギターと孤独と蒼い惑星 (吉他与孤独与蓝色星球)
+<img src="https://dsm01pap001files.storage.live.com/y4myiN_AH_4ALR1hp25Rk0GVI517MeFua4DpcyWI7rKH5RtHTug1x9j9aXKIe--beY1qac2M7NKBYgy0HI5J4m4tKsjm2hV6KtyYDh2gXEca-t6cIjyIBlSy00enj8kxyflDa4LItotn6deVnRhRKFCv8f4BYY1v1CBXkk0kI7M67r-V-IDSYsamsQS-YV2Jga3?width=1440&height=4209&cropmode=none" type="img/jpg" width="540">
 
 ## 25時、ナイトコードで。(Nightcord at 25:00)/プロジェクトセカイ(project SEKAI)/黑柿子P
 
