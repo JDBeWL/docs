@@ -4,3 +4,4 @@
 * [游戏](/game.md)
 * [电影](/movie.md)
 * [歌词](/lyrics.md)
+* [翻译](/translate.md)
