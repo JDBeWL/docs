@@ -1,1 +1,1 @@
-git commit -m "update  the translate.md"
+git commit -m "update  the files"
