@@ -103,3 +103,125 @@
 东方Project(ZUN)
 
 八目鳗穴(ころんば４号) 
+
+## 边狱巴士公司
+
+You became the "me" who you despised
+你成为了你最厌恶的【我】
+We swallowed the time
+我们吞噬时间
+Let us rewind
+倒带
+
+Lament
+喇们
+
+If you wanted me to speak
+如果你想让我自主发话
+If you wanted me to think
+如果你想让我独立思考
+If you wanted me to carry on our dreams
+如果你想让我继续追随我们的梦想
+Each loop we live through (Each loop we live through)
+当我们经历一次又一次轮回
+The standards inside me, the line I drew for me
+我心中的判断基准，我为自己划下的那条界限
+Lowers to the earth
+逐渐陷入地底
+
+Lament
+喇们
+
+Why'd you make my voice stutter?
+为什么把我做得这样口吃？
+Why do truths never matter?
+为什么真相总是那么无所谓？
+Why'd you curse me with "you're a natural born genius"?
+为什么用【你是个天生的天才】来诅咒我？
+Endless inferno (Inferno)
+无限炼狱
+Counter-clock we rose
+逆时针的我们再次起立
+Counter-clock we reload
+逆时针的我们重新加载
+Tick tick tock
+滴滴哒
+Replayed thoughts
+思想重播
+
+Forget me not
+勿忘我
+
+I'm inside the empathic light
+在慈悲的光芒之中
+I bite off your skin
+我咬下你的肌肤
+Exposing the angels on your ribs
+暴露你肋骨上的那群天使
+They stare at us
+天使与我们对望
+Hello, how may I help you today?
+【您好，请问今天有什么需要？】
+Please, a one-way ticket to heaven
+请给我一张前往天堂的单程票
+Buckled up on velvet seats
+在天鹅绒坐席上系好安全带
+Sceneries were passing by
+外景往来如梭
+Not so different from our hell
+与我们的地狱并没有什么不同
+Not so different from our home
+与我们的故乡并没有什么不同
+Then I realized
+于是我终于明白
+Someone's heaven could be the source of my torment
+我所有痛苦的源泉对于有些人来说即是极乐世界
+
+Life is allowing yourself
+生命即是自我容忍
+Allowing yourself to step on fire, shed tears on bloodied routes
+允许踏入火焰，在染血的道路上落泪的自己
+Life is to consume
+生命即是消费
+Life is to become food for each other, no matter evil or good
+生命即是成为相互的食饵，无论善恶
+Life is fairness, life is inequality
+生命即是公平，生命即是不平等
+Eternally in hell we live
+在地狱之中我们永存
+Life is in the motion
+生命常时运作
+By default
+这是我们的默认
+
+Lament
+喇们
+
+If you wanted me to live
+如果你想让我持续存活
+If you want me to forgive
+如果你想让我宽恕原谅
+If you want us to pretend like we're civilized humans
+如果你想让我们假装扮演文明社会的住人
+Each loop we die through (Each loop we die through)
+当我们死于一次又一次轮回
+The justice inside me, the ego fending me
+我心中的正义，那个为我狡辩的自我
+Rationalize my sin
+使我的罪恶合理化
+
+Lament
+喇们
+
+Why do deaths end my torture?
+为什么唯有死才能终结我受到的拷打？
+Why can't anyone feel my hurt?
+为什么谁也无法理解我的悲苦？
+Why'd you crown the most violent to be champions?
+为什么戴冠的王者终归是最暴力凶残的那一个？
+In this inferno (Inferno)
+这是炼狱
+We built for ourselves
+我们为各自建起的炼狱
+Reviving each other in this hell
+我们相互复苏，存于地狱之中
