@@ -6,8 +6,8 @@ Osanzi | Mwk | Twinfield | Manika | 椎乃味醂
 ------------- | ------------- | ------------- | ------------- | -------------
 KISS ME (feat. 初音ミク) | Day of Beginning | Bugfix Girl | イロニコ | I’ll Never Be (Apart From) You
 Show Time (feat. 初音ミク) | | イリーガルキャンディ (feat. MEIKO) | | OSINT
-Challenger(album:Nextlight 02) | Da Da Dawn (feat. 花隈千冬) |
-Don't Tease! (feat. 初音ミク) |
+Challenger(album:Nextlight 02) | | Da Da Dawn (feat. 花隈千冬) |
+Don't Tease! (feat. 初音ミク) | | |
 
 ## Osanzi(3_o_clocker)
 
