@@ -1,5 +1,7 @@
 # 个人翻译
 
+
+## 日语翻译部分
 > 个人理解的翻译，不能当做日语学习使用 ^﹀^
 
 Osanzi | Mwk | Twinfield | Manika | 椎乃味醂
@@ -8,10 +10,11 @@ KISS ME (feat. 初音ミク) | Day of Beginning | Bugfix Girl | イロニコ | I
 Show Time (feat. 初音ミク) | | イリーガルキャンディ (feat. MEIKO) | | OSINT
 Challenger(album:Nextlight 02) | | Da Da Dawn (feat. 花隈千冬) |
 Don't Tease! (feat. 初音ミク) | | |
+常世 | | |
 
-## Osanzi(3_o_clocker)
+### Osanzi(3_o_clocker)
 
-### KISS ME (feat. 初音ミク)
+#### KISS ME (feat. 初音ミク)
 
 どうしようもないこのIrony
 
@@ -190,7 +193,7 @@ Kiss me, Before "it"
 
 ---
 
-### Show Time (feat. 初音ミク)
+#### Show Time (feat. 初音ミク)
 
 視線は常に淀み合い
 
@@ -398,7 +401,7 @@ Kiss me, Before "it"
 
 ---
 
-### Challenger(album:Nextlight 02)
+#### Challenger(album:Nextlight 02)
 
 弱くたっていい
 
@@ -550,7 +553,7 @@ Kiss me, Before "it"
 
 ---
 
-### Don't Tease! (feat. 初音ミク) 
+#### Don't Tease! (feat. 初音ミク) 
 
 Everyone
 
@@ -820,9 +823,149 @@ Think about the "truth"
 
 ---
 
-## Mwk
+#### 常世
 
-### Day of Beginning
+不安定に目覚めた午前4時に
+
+**凌晨4点，我在不安中醒来**
+
+空白を埋めた 嘘が消える
+
+**填充空白 谎言消失**
+
+見つけた私だけのテリトリー
+
+**找到了属于我的领地**
+
+邪魔しないでトワイライト
+
+**不要在黄昏时分打扰我**
+
+未完成のまま振るタクト
+
+**保持未完成的状态摇动指挥棒**
+
+明日の音は正しく聞こえるか？
+
+**明天的声音会听得清楚吗？**
+
+次の夢で叶えれるはず
+
+**下一个梦想应该能够实现**
+
+終わらない 常世へ
+
+**永不终结 通往常世**
+
+揶揄う様、狂わせた このロンリー
+
+**像是在嘲笑一样，使我失去理智，这种孤寂**
+
+不可逆に咲いた代わりのない 偽りない心、満たしたいの
+
+**不可逆地开放的、无法替代的真实的心，我想填满它**
+
+時の流れに残されてしまう 私を 超えて 超え て
+
+**被时间的流逝遗留下来，超越自身**
+
+今更のなぐさめなんかじゃ
+
+**像是现在已经太迟的慰藉**
+
+埋まらない
+
+**填补不了**
+
+響かない から
+
+**因为没有回响**
+
+浅はかなさよならなんかじゃ
+
+**不过是肤浅的告别之类的**
+
+進まない
+
+**无法前进**
+
+戻れないから
+
+**也无法回头**
+
+大概のことはメイビーで
+
+**一般的事情就随便吧**
+
+過ごした日々はレイジー
+
+**度过的每一天都很愉快(lazy)**
+
+大体の問題は大体目 を瞑 って リセット
+
+**大部分问题大概都可以闭上眼睛，进行重置(reset)**
+
+一貫性がないと問う八方美人
+
+**缺乏一致性就质疑的八方美人**
+
+明日のドアは正しく叩けるか
+
+**明天的门是否能准确敲响？**
+
+次の夜で終わらせるはず
+
+**应该在下一个夜晚结束**
+
+ぼやけた 長夜に
+
+**在朦胧的长夜里**
+
+揶揄う様、惑わせたこのロンリー
+
+**像是在嘲笑一样，迷惑的寂寞感**
+
+無駄足に終わる代わりのない 偽りない心、救いたいの
+
+**以无谓之步结束，无法替代的真实心灵，我想拯救它**
+
+割れたヒビから流れだしてしまう
+
+**从裂开的裂缝里流出来**
+
+私を 止めて 止め て
+
+**阻止我，阻止我**
+
+今更のなぐさめなんかじゃ
+
+**像是现在已经太迟的慰藉**
+
+埋まらない
+
+**填补不了**
+
+響かないから
+
+**因为没有回响**
+
+浅はか なさよならなんかじゃ
+
+**不过是肤浅的告别之类的**
+
+進まない
+
+**无法前进**
+
+戻れない
+
+**无法回头**
+
+---
+
+### Mwk
+
+#### Day of Beginning
 
 聞き慣れた calling 始まりの合図
 
@@ -890,9 +1033,9 @@ Day of Beginning
 
 ---
 
-## Twinfield
+### Twinfield
 
-### Bugfix Girl
+#### Bugfix Girl
 
 いつまで見つめているつもりなの？
 
@@ -1072,7 +1215,7 @@ Day of Beginning
 
 ---
 
-### イリーガルキャンディ (feat. MEIKO)
+#### イリーガルキャンディ (feat. MEIKO)
 
 夜を彷徨う踊る
 
@@ -1248,7 +1391,7 @@ DikiDiki Don
 
 ---
 
-### Da Da Dawn (feat. 花隈千冬)
+#### Da Da Dawn (feat. 花隈千冬)
 
 眠れないようなことがあって
 
@@ -1388,9 +1531,9 @@ DikiDiki Don
 
 ---
 
-## Manika
+### Manika
 
-### イロニコ
+#### イロニコ
 
 嗚呼命がもう足りないよ
 
@@ -1538,9 +1681,9 @@ DikiDiki Don
 
 ---
 
-## 椎乃味醂
+### 椎乃味醂
 
-### I’ll Never Be (Apart From) You
+#### I’ll Never Be (Apart From) You
 
 大体表層だけ切り取って、
 
@@ -1760,7 +1903,7 @@ DikiDiki Don
 
 ---
 
-### OSINT
+#### OSINT
 
 verse1（vo. 歌愛ユキ）
 
@@ -2025,3 +2168,577 @@ verse3（vo. 重音テト）
 この音がその証明。
 
 **这个声音就是那个证明。**
+
+---
+
+## 英语翻译部分
+> 大多数使用意译，尽量还原准确句意
+
+### Granblue Fantasy: Relink OST(碧蓝幻想Relink 原声集)
+
+#### Ending Theme | "Good Night, Good Morning" Vocals by Nao Toyama
+
+Under the midday song
+
+**正午的歌声下**
+
+You gaze the star the sky
+
+**你凝视着星空**
+
+Why the wind whistled alone
+
+**为何风独自呼啸？**
+
+What did you both cry?
+
+**你们俩为何哭泣？**
+
+
+When the sun said goodbye
+
+**当太阳落下时**
+
+Still you gaze for your love, song
+
+**你仍在凝视着你所爱之人与所爱之歌**
+
+Even us fray for proud of the stars
+
+**就连我们也为星辰的荣光而剥蚀**
+
+The world is beautiful
+
+**这个世界如此美丽**
+
+The love so many things to see
+
+**爱中万象可睹，美好处处可见**
+
+But if more rail will gone tomorrow
+
+**但倘若更多的轨迹将在明日消逝**
+
+The state inside,please
+
+**请保持内心平静**
+
+Good night,Good night
+
+**夜幕低垂，星光悄然**
+
+Sleep tight,and rest your wings
+
+**睡个好觉，让你的羽翼得到休息**
+
+Sleep tight,and rest your wings
+
+**睡个好觉，让你的羽翼得到休息**
+
+
+Do still remember the day we saw away
+
+**你可曾还记得我们分别的那一天**
+
+Right before the sunset and begin all journey together
+
+**就在夕阳西沉，共启程的前一刻**
+
+Everything that touched our eyes Was such a thrill to see
+
+**眼所能及处，无不令人心驰神往**
+
+
+Soon I lost friend
+
+**不久后，我失去了挚友**
+
+I'll have many sure that's a thrill
+
+**但我确信会有无数新的经历**
+
+Through things never end this ties
+
+**即便一切终将不复，这份羁绊永不消逝**
+
+
+We flew as flew and flew
+
+**我们飞呀飞呀飞啊**
+
+Now we've come so very far
+
+**如今已飞得太高太远**
+
+But I can go even further
+
+**但我仍可飞得更远**
+
+So long as I'll leave you
+
+**只要我心中有你**
+
+
+Place of breath danced in the wind
+
+**呼吸之地随风起舞**
+
+So many lines for she frayed
+
+**她那无数行路都已剥蚀湮丽**
+
+All should she prayed might but it's too lose
+
+**虔诚祷告的一切，终成泡影**
+
+I'm on the trees
+
+**我置身于林间**
+
+And the connection was made
+
+**心灵已然相通**
+
+
+The world is beautiful
+
+**这个世界如此美丽**
+
+Every moment we share
+
+**我们共享的每一刻**
+
+In these blue skies,I presure do these things
+
+**在这碧空之下，我珍视着一切**
+
+
+I'm sorry
+
+**我很后悔**
+
+I never met this stray of pores
+
+**我从未留意过这些被我们忽略的细节**
+
+But it's okay
+
+**但没关系**
+
+Together we can fly again
+
+**我们还可以再次展翅飞翔**
+
+But it's okay
+
+**没关系**
+
+Together we can fly
+
+**我们依然可以飞翔**
+
+It's okay
+
+**没关系**
+
+Together we can fly again
+
+**我们仍可再次飞翔**
+
+
+Good night
+
+**夜幕低垂**
+
+Good night
+
+**星光悄然**
+
+Sleep tight and rest your wings
+
+**睡个好觉，让你的羽翼得到休息**
+
+Good morning
+
+**清晨来临**
+
+We'll be the worlds that link us to
+
+**我们将成为连接世界的那条纽带**
+
+A new tomorrow
+
+**开启崭新的明天**
+
+---
+
+### Hatsune Miku - Vocaloid V4E
+
+#### Between Blue & Sky(在蓝天交界处) (feat. Hatsune Miku)
+
+Getting lost at a red light it seems to me
+
+**我仿佛在红灯前迷失了方向**
+
+Getting near to a dead end that don't exist
+
+**靠近一个不存在的死胡同**
+
+Worrying all the things ahead of yourself
+
+**对眼前一切感到担忧**
+
+But why? I don't get it at all
+
+**但为何？我完全不明白**
+
+Everything falls apart at some point in time
+
+**所有事物在某个时刻都会分崩离析**
+
+Gotta let go some of those fix itself in the meanwhile
+
+**在此期间，必须放下一些事情让其自行解决**
+
+Even you, even me, we all have to rest
+
+**即使是你，即使是我，我们也必须休息**
+
+Please don't let this just go on
+
+**请不要让这一切继续下去**
+
+Just realize that you can pull this through, just look up
+
+**只要意识到你能够度过难关，抬头仰望**
+
+Between the sky's blue
+
+**在蔚蓝的天空之间**
+
+Let's paint the stars the hope that we have
+
+**让我们将希望涂满星辰**
+
+Out there for them to see that we could be the things we dream
+
+**让那里的人们看到我们可以成为梦想中的模样**
+
+Just gotta have faith (faith)
+
+**只要有信念(信念)**
+
+And those stars will reform into a constellation
+
+**那些星星将重新排列成星座**
+
+It will fall right into place, it's set and stoned
+
+**它们将如期落入各自的位置，坚如磐石**
+
+When time arrives (when time arrives)
+
+**当时机成熟（当时机成熟）**
+
+You will be just fine like those stars you choose
+
+**你将像你选择的那些星星一样美好**
+
+Between the blue and sky
+
+**在蔚蓝的天空之间**
+
+No matter how long will it take, no matter how hard will it be
+
+**不管需要多长时间，不管会有多大的困难**
+
+I will keep on looking over you while I still got your back
+
+**我会继续守护你，一直在你身后支持你**
+
+Our journey is not over, I'll keep pushing even if you are fine
+
+**我们的旅程还没有结束，即使你没事，我也会不断努力向前**
+
+Between the sky's blue
+
+**在蔚蓝的天空之间**
+
+It isn't so faraway to reach it
+
+**它并非遥不可及**
+
+I know I'm not alone to be here
+
+**我知道我不是孤身一人在此**
+
+Look up, that's where we belong
+
+**抬头望去，那才是我们的归宿**
+
+Between the sky's blue
+
+**在蔚蓝的天空之间**
+
+Let's paint the stars the hope that we have
+
+**让我们将希望涂满星辰**
+
+Out there for them to see that we could be the things we dream
+
+**让那里的人们看到我们可以成为梦想中的模样**
+
+Just gotta have faith (faith)
+
+**只要有信念(信念)**
+
+And those stars will reform into a constellation
+
+**那些星星将重新排列成星座**
+
+It will fall right into place, it's set and stoned
+
+**它们将如期落入各自的位置，坚如磐石**
+
+When time arrives (when time arrives)
+
+**当时机成熟（当时机成熟）**
+
+You will be just fine like those stars you choose
+
+**你将像你选择的那些星星一样美好**
+
+Between the blue and sky
+
+**在蔚蓝的天空之间**
+
+---
+
+### XY Unlimited
+
+#### They All Fall Down
+
+One by one the soldiers stumble
+
+**士兵们一个接一个的蹒跚而行**
+
+See them as they stand and tumble
+
+**看着他们站着跌倒**
+
+You're here with me
+
+**你现在与我同在**
+
+Cities burnt and towers falling
+
+**城市被烧毁 高楼倒塌**
+
+They don't hear the children calling
+
+**他们听不见孩童在呼喊**
+
+Their families
+
+**他们的家人**
+
+And I'm standing here beside you just to see what comes of this
+
+**我站在这里与你并肩 只为看到这一幕之后会如何**
+
+We can falter now or leave behind a lifetime of regret
+
+**我们可以现在就犹豫 或余生深深后悔**
+
+Many braver men before me died along this road I've found
+
+**我发现在我之前有很多更勇敢的人死在这条路上**
+
+One by one, they all fall down
+
+**一个接一个 全都倒下了**
+
+One by one the soldiers crumble
+
+**士兵们一个接一个地倒下了**
+
+See them as they stand and tumble
+
+**看着他们站着跌倒**
+
+You're shaking now
+
+**你现在在颤抖**
+
+I will hold you close to me
+
+**我会紧紧抱着你**
+
+Cling to me 'til I'm not breathing
+
+**紧紧地依偎在我身边 直到我没再呼吸**
+
+Our last goodbye
+
+**我们的最后告别**
+
+And I'm standing here beside you just to see what comes of this
+
+**我站在这里与你并肩 只为看到这一幕之后会如何**
+
+We can falter now or leave behind a lifetime of regret
+
+**我们可以现在就犹豫 或余生深深后悔**
+
+Many braver men before me died along this road I've found
+
+**我发现在我之前有很多更勇敢的人死在这条路上**
+
+One by one, they all fall down
+
+**一个接一个 全都倒下了**
+
+Singing like you showed me
+
+**如你教导我唱着**
+
+Burning, breaking slowly
+
+**徐燃徐破**
+
+Ashes, ashes
+
+**烬烬化灰**
+
+They all fall down
+
+**他们全都倒下了**
+
+Singing like you showed me
+
+**如你教导我唱着**
+
+Burning, breaking slowly
+
+**徐燃徐破**
+
+Ashes, ashes
+
+**烬烬化灰**
+
+They all fall down
+
+**他们全都倒下了**
+
+And I'm standing here beside you just to see what comes of this
+
+**我站在这里与你并肩 只为看到这一幕之后会如何**
+
+We can falter now or leave behind a lifetime of regret
+
+**我们可以现在就犹豫 或余生深深后悔**
+
+Many braver men before me died along this road I've found
+
+**我发现在我之前有很多更勇敢的人死在这条路上**
+
+One by one, they all fall down
+
+**一个接一个 全都倒下了**
+
+Singing like you showed me
+
+**如你教导我唱着**
+
+Burning, breaking slowly
+
+**徐燃徐破**
+
+Ashes, ashes
+
+**烬烬化灰**
+
+They all fall down
+
+**他们全都倒下了**
+
+Singing like you showed me
+
+**如你教导我唱着**
+
+Burning, breaking slowly
+
+**徐燃徐破**
+
+Ashes, ashes
+
+**烬烬化灰**
+
+They all fall down
+
+**他们全都倒下了**
+
+Singing like you showed me
+
+**如你教导我唱着**
+
+Burning, breaking slowly
+
+**徐燃徐破**
+
+Ashes, ashes
+
+**烬烬化灰**
+
+They all fall down
+
+**他们全都倒下了**
+
+Singing like you showed me
+
+**如你教导我唱着**
+
+Burning, breaking slowly
+
+**徐燃徐破**
+
+Ashes, ashes
+
+**烬烬化灰**
+
+They all fall down
+
+**他们全都倒下了**
+
+Singing like you showed me
+
+**如你教导我唱着**
+
+Burning, breaking slowly
+
+**徐燃徐破**
+
+Ashes, ashes
+
+**烬烬化灰**
+
+They all fall down
+
+**他们全都倒下了**
+
+Singing like you showed me
+
+**如你教导我唱着**
+
+Burning, breaking slowly
+
+**徐燃徐破**
+
+Ashes, ashes
+
+**烬烬化灰**
+
+They all fall down
+
+**他们全都倒下了**
+
