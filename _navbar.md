@@ -1,8 +1,0 @@
-* [名言](/saying.md)
-* [动漫](/anime.md)
-* [音乐](/music.md)
-* [游戏](/game.md)
-* [电影](/movie.md)
-* [歌词](/lyrics.md)
-* [翻译](/translate.md)
-* [EXP](/Experimental.md)

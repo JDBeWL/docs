@@ -1,0 +1,1083 @@
+<!DOCTYPE html><html><head>
+      <title>translate</title>
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      
+      <link rel="stylesheet" href="file:///c:\Users\jdbEwl\.vscode\extensions\shd101wyy.markdown-preview-enhanced-0.8.10\crossnote\dependencies\katex\katex.min.css">
+      
+      
+      
+      
+      
+      <style>
+      @font-face{font-family:'Roboto Mono';font-style:normal;font-weight:400;src:url(https://fonts.gstatic.com/s/robotomono/v23/L0xuDF4xlVMF-BfR8bXMIhJHg45mwgGEFl0_3vq_ROW9.ttf) format('truetype')}@font-face{font-family:'Source Sans Pro';font-style:normal;font-weight:300;src:url(https://fonts.gstatic.com/s/sourcesanspro/v22/6xKydSBYKcSV-LCoeQqfX1RYOo3ik4zwlxdr.ttf) format('truetype')}@font-face{font-family:'Source Sans Pro';font-style:normal;font-weight:400;src:url(https://fonts.gstatic.com/s/sourcesanspro/v22/6xK3dSBYKcSV-LCoeQqfX1RYOo3qOK7g.ttf) format('truetype')}@font-face{font-family:'Source Sans Pro';font-style:normal;font-weight:600;src:url(https://fonts.gstatic.com/s/sourcesanspro/v22/6xKydSBYKcSV-LCoeQqfX1RYOo3i54rwlxdr.ttf) format('truetype')}*{-webkit-font-smoothing:antialiased;-webkit-overflow-scrolling:touch;-webkit-tap-highlight-color:transparent;-webkit-text-size-adjust:none;-webkit-touch-callout:none;box-sizing:border-box}.markdown-preview code{border-radius:2px;color:#e96900;font-size:12.8px;font-size:.8rem;margin:0 2px;padding:3px 5px;white-space:pre-wrap}.markdown-preview code,.markdown-preview pre{background-color:#f8f8f8;font-family:Roboto Mono,Monaco,courier,monospace}.markdown-preview pre{-moz-osx-font-smoothing:initial;-webkit-font-smoothing:initial;line-height:24px;line-height:1.5rem;margin:1.2em 0;overflow:auto;padding:0 22.4px;padding:0 1.4rem;position:relative;word-wrap:normal}.token.cdata,.token.comment,.token.doctype,.token.prolog{color:#8e908c}.token.namespace{opacity:.7}.token.boolean,.token.number{color:#c76b29}.token.punctuation{color:#525252}.token.property{color:#c08b30}.token.tag{color:#2973b7}.token.string{color:#42b983;color:var(--theme-color,#42b983)}.token.selector{color:#6679cc}.token.attr-name{color:#2973b7}.language-css .token.string,.style .token.string,.token.entity,.token.url{color:#22a2c9}.token.attr-value,.token.control,.token.directive,.token.unit{color:#42b983;color:var(--theme-color,#42b983)}.token.keyword{color:#e96900}.token.atrule,.token.regex,.token.statement{color:#22a2c9}.token.placeholder,.token.variable{color:#3d8fd1}.token.deleted{text-decoration:line-through}.token.inserted{border-bottom:1px dotted #202746;text-decoration:none}.token.italic{font-style:italic}.token.bold,.token.important{font-weight:700}.token.important{color:#c94922}.token.entity{cursor:help}.markdown-preview pre>code,.markdown-preview pre[class*=language]{-moz-osx-font-smoothing:initial;-webkit-font-smoothing:initial;background-color:#f8f8f8;border-radius:2px;color:#525252;display:block;font-family:Roboto Mono,Monaco,courier,monospace;font-size:12.8px;font-size:.8rem;line-height:2em;max-width:inherit;overflow:inherit;padding:.8em 1.4em;white-space:pre}.markdown-preview pre>code{padding-left:0;padding-right:0}.markdown-preview code:after,.markdown-preview code:before{letter-spacing:.8px;letter-spacing:.05rem}code .token{-moz-osx-font-smoothing:initial;-webkit-font-smoothing:initial;min-height:24px;min-height:1.5rem}pre:after{color:#ccc;content:attr(data-lang);font-size:9.6px;font-size:.6rem;font-weight:600;height:15px;line-height:15px;padding:5px 10px 0;position:absolute;right:0;text-align:right;top:0}pre[data-line]{position:relative;padding:1em 0 1em 3em!important}pre[data-line] .line-highlight-wrapper{position:absolute;top:0;left:0;background-color:transparent;display:block;width:100%}pre[data-line] .line-highlight{position:absolute;left:0;right:0;padding:inherit 0;margin-top:1em;background:hsla(24,20%,50%,.08);background:linear-gradient(to right,hsla(24,20%,50%,.1) 70%,hsla(24,20%,50%,0));pointer-events:none;line-height:inherit;white-space:pre}pre[data-line] .line-highlight:before,pre[data-line] .line-highlight[data-end]:after{content:attr(data-start);position:absolute;top:.4em;left:.6em;min-width:1em;padding:0 .5em;background-color:hsla(24,20%,50%,.4);color:#f4f1ef;font:bold 65%/1.5 sans-serif;text-align:center;vertical-align:.3em;border-radius:999px;text-shadow:none;box-shadow:0 1px #fff}pre[data-line] .line-highlight[data-end]:after{content:attr(data-end);top:auto;bottom:.4em}html body{font-family:'Helvetica Neue',Helvetica,'Segoe UI',Arial,freesans,sans-serif;font-size:16px;line-height:1.6;color:#aab1bf;background-color:#272b33;overflow:initial;box-sizing:border-box;word-wrap:break-word}html body>:first-child{margin-top:0}html body h1,html body h2,html body h3,html body h4,html body h5,html body h6{line-height:1.2;margin-top:1em;margin-bottom:16px;color:#fff}html body h1{font-size:2.25em;font-weight:300;padding-bottom:.3em}html body h2{font-size:1.75em;font-weight:400;padding-bottom:.3em}html body h3{font-size:1.5em;font-weight:500}html body h4{font-size:1.25em;font-weight:600}html body h5{font-size:1.1em;font-weight:600}html body h6{font-size:1em;font-weight:600}html body h1,html body h2,html body h3,html body h4,html body h5{font-weight:600}html body h5{font-size:1em}html body h6{color:#7c869c}html body strong{color:#fff}html body del{color:#7c869c}html body a:not([href]){color:inherit;text-decoration:none}html body a{color:#56b6c2;text-decoration:none}html body a:hover{color:#74c3cd;text-decoration:none}html body img{max-width:100%}html body>p{margin-top:0;margin-bottom:16px;word-wrap:break-word}html body>ol,html body>ul{margin-bottom:16px}html body ol,html body ul{padding-left:2em}html body ol.no-list,html body ul.no-list{padding:0;list-style-type:none}html body ol ol,html body ol ul,html body ul ol,html body ul ul{margin-top:0;margin-bottom:0}html body li{margin-bottom:0}html body li.task-list-item{list-style:none}html body li>p{margin-top:0;margin-bottom:0}html body .task-list-item-checkbox{margin:0 .2em .25em -1.8em;vertical-align:middle}html body .task-list-item-checkbox:hover{cursor:pointer}html body blockquote{margin:16px 0;font-size:inherit;padding:0 15px;color:#7c869c;background-color:#393f4a;border-left:4px solid #4b5261}html body blockquote>:first-child{margin-top:0}html body blockquote>:last-child{margin-bottom:0}html body hr{height:4px;margin:32px 0;background-color:#4b5261;border:0 none}html body table{margin:10px 0 15px 0;border-collapse:collapse;border-spacing:0;display:block;width:100%;overflow:auto;word-break:normal;word-break:keep-all}html body table th{font-weight:700;color:#fff}html body table td,html body table th{border:1px solid #4b5261;padding:6px 13px}html body dl{padding:0}html body dl dt{padding:0;margin-top:16px;font-size:1em;font-style:italic;font-weight:700}html body dl dd{padding:0 16px;margin-bottom:16px}html body code{font-family:Menlo,Monaco,Consolas,'Courier New',monospace;font-size:.85em;color:#fff;background-color:#393f4a;border-radius:3px;padding:.2em 0}html body code::after,html body code::before{letter-spacing:-.2em;content:'\00a0'}html body pre>code{padding:0;margin:0;word-break:normal;white-space:pre;background:0 0;border:0}html body .highlight{margin-bottom:16px}html body .highlight pre,html body pre{padding:1em;overflow:auto;line-height:1.45;border:#4b5261;border-radius:3px}html body .highlight pre{margin-bottom:0;word-break:normal}html body pre code,html body pre tt{display:inline;max-width:initial;padding:0;margin:0;overflow:initial;line-height:inherit;word-wrap:normal;background-color:transparent;border:0}html body pre code:after,html body pre code:before,html body pre tt:after,html body pre tt:before{content:normal}html body blockquote,html body dl,html body ol,html body p,html body pre,html body ul{margin-top:0;margin-bottom:16px}html body kbd{color:#fff;border:1px solid #4b5261;border-bottom:2px solid #3e4450;padding:2px 4px;background-color:#393f4a;border-radius:3px}@media print{html body{background-color:#272b33}html body h1,html body h2,html body h3,html body h4,html body h5,html body h6{color:#fff;page-break-after:avoid}html body blockquote{color:#7c869c}html body pre{page-break-inside:avoid}html body table{display:table}html body img{display:block;max-width:100%;max-height:100%}html body code,html body pre{word-wrap:break-word;white-space:pre}}.markdown-preview{width:100%;height:100%;box-sizing:border-box}.markdown-preview ul{list-style:disc}.markdown-preview ul ul{list-style:circle}.markdown-preview ul ul ul{list-style:square}.markdown-preview ol{list-style:decimal}.markdown-preview ol ol,.markdown-preview ul ol{list-style-type:lower-roman}.markdown-preview ol ol ol,.markdown-preview ol ul ol,.markdown-preview ul ol ol,.markdown-preview ul ul ol{list-style-type:lower-alpha}.markdown-preview .newpage,.markdown-preview .pagebreak{page-break-before:always}.markdown-preview pre.line-numbers{position:relative;padding-left:3.8em;counter-reset:linenumber}.markdown-preview pre.line-numbers>code{position:relative}.markdown-preview pre.line-numbers .line-numbers-rows{position:absolute;pointer-events:none;top:1em;font-size:100%;left:0;width:3em;letter-spacing:-1px;border-right:1px solid #999;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none}.markdown-preview pre.line-numbers .line-numbers-rows>span{pointer-events:none;display:block;counter-increment:linenumber}.markdown-preview pre.line-numbers .line-numbers-rows>span:before{content:counter(linenumber);color:#999;display:block;padding-right:.8em;text-align:right}.markdown-preview .mathjax-exps .MathJax_Display{text-align:center!important}.markdown-preview:not([data-for=preview]) .code-chunk .code-chunk-btn-group{display:none}.markdown-preview:not([data-for=preview]) .code-chunk .status{display:none}.markdown-preview:not([data-for=preview]) .code-chunk .output-div{margin-bottom:16px}.markdown-preview .md-toc{padding:0}.markdown-preview .md-toc .md-toc-link-wrapper .md-toc-link{display:inline;padding:.25rem 0}.markdown-preview .md-toc .md-toc-link-wrapper .md-toc-link div,.markdown-preview .md-toc .md-toc-link-wrapper .md-toc-link p{display:inline}.markdown-preview .md-toc .md-toc-link-wrapper.highlighted .md-toc-link{font-weight:800}.scrollbar-style::-webkit-scrollbar{width:8px}.scrollbar-style::-webkit-scrollbar-track{border-radius:10px;background-color:transparent}.scrollbar-style::-webkit-scrollbar-thumb{border-radius:5px;background-color:rgba(150,150,150,.66);border:4px solid rgba(150,150,150,.66);background-clip:content-box}html body[for=html-export]:not([data-presentation-mode]){position:relative;width:100%;height:100%;top:0;left:0;margin:0;padding:0;overflow:auto}html body[for=html-export]:not([data-presentation-mode]) .markdown-preview{position:relative;top:0;min-height:100vh}@media screen and (min-width:914px){html body[for=html-export]:not([data-presentation-mode]) .markdown-preview{padding:2em calc(50% - 457px + 2em)}}@media screen and (max-width:914px){html body[for=html-export]:not([data-presentation-mode]) .markdown-preview{padding:2em}}@media screen and (max-width:450px){html body[for=html-export]:not([data-presentation-mode]) .markdown-preview{font-size:14px!important;padding:1em}}@media print{html body[for=html-export]:not([data-presentation-mode]) #sidebar-toc-btn{display:none}}html body[for=html-export]:not([data-presentation-mode]) #sidebar-toc-btn{position:fixed;bottom:8px;left:8px;font-size:28px;cursor:pointer;color:inherit;z-index:99;width:32px;text-align:center;opacity:.4}html body[for=html-export]:not([data-presentation-mode])[html-show-sidebar-toc] #sidebar-toc-btn{opacity:1}html body[for=html-export]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc{position:fixed;top:0;left:0;width:300px;height:100%;padding:32px 0 48px 0;font-size:14px;box-shadow:0 0 4px rgba(150,150,150,.33);box-sizing:border-box;overflow:auto;background-color:inherit}html body[for=html-export]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc::-webkit-scrollbar{width:8px}html body[for=html-export]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc::-webkit-scrollbar-track{border-radius:10px;background-color:transparent}html body[for=html-export]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc::-webkit-scrollbar-thumb{border-radius:5px;background-color:rgba(150,150,150,.66);border:4px solid rgba(150,150,150,.66);background-clip:content-box}html body[for=html-export]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc a{text-decoration:none}html body[for=html-export]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc .md-toc{padding:0 16px}html body[for=html-export]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc .md-toc .md-toc-link-wrapper .md-toc-link{display:inline;padding:.25rem 0}html body[for=html-export]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc .md-toc .md-toc-link-wrapper .md-toc-link div,html body[for=html-export]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc .md-toc .md-toc-link-wrapper .md-toc-link p{display:inline}html body[for=html-export]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc .md-toc .md-toc-link-wrapper.highlighted .md-toc-link{font-weight:800}html body[for=html-export]:not([data-presentation-mode])[html-show-sidebar-toc] .markdown-preview{left:300px;width:calc(100% - 300px);padding:2em calc(50% - 457px - 300px / 2);margin:0;box-sizing:border-box}@media screen and (max-width:1274px){html body[for=html-export]:not([data-presentation-mode])[html-show-sidebar-toc] .markdown-preview{padding:2em}}@media screen and (max-width:450px){html body[for=html-export]:not([data-presentation-mode])[html-show-sidebar-toc] .markdown-preview{width:100%}}html body[for=html-export]:not([data-presentation-mode]):not([html-show-sidebar-toc]) .markdown-preview{left:50%;transform:translateX(-50%)}html body[for=html-export]:not([data-presentation-mode]):not([html-show-sidebar-toc]) .md-sidebar-toc{display:none}
+/* Please visit the URL below for more information: */
+/*   https://shd101wyy.github.io/markdown-preview-enhanced/#/customize-css */
+
+      </style>
+      <!-- The content below will be included at the end of the <head> element. --><script type="text/javascript">
+  document.addEventListener("DOMContentLoaded", function () {
+    // your code here
+  });
+</script></head><body for="html-export">
+    
+    
+      <div class="crossnote markdown-preview  ">
+      
+<h1 id="个人翻译">个人翻译 </h1>
+<blockquote>
+<p>个人理解的翻译，不能当做日语学习使用 <sup>﹀</sup></p>
+</blockquote>
+<table>
+<thead>
+<tr>
+<th>Osanzi</th>
+<th>Mwk</th>
+<th>Twinfield</th>
+<th>Manika</th>
+<th>椎乃味醂</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>KISS ME (feat. 初音ミク)</td>
+<td>Day of Beginning</td>
+<td>Bugfix Girl</td>
+<td>イロニコ</td>
+<td>I’ll Never Be (Apart From) You</td>
+</tr>
+<tr>
+<td>Show Time (feat. 初音ミク)</td>
+<td></td>
+<td>イリーガルキャンディ (feat. MEIKO)</td>
+<td></td>
+<td>OSINT</td>
+</tr>
+<tr>
+<td>Challenger(album:Nextlight 02)</td>
+<td></td>
+<td>Da Da Dawn (feat. 花隈千冬)</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Don't Tease! (feat. 初音ミク)</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<h2 id="osanzi3_o_clocker">Osanzi(3_o_clocker) </h2>
+<h3 id="kiss-me-feat-初音ミク">KISS ME (feat. 初音ミク) </h3>
+<p>どうしようもないこのIrony</p>
+<p><strong>我忍不住了，这种可笑的感觉</strong></p>
+<p>押し込むetc.へ</p>
+<p><strong>推开等等之类的...</strong></p>
+<p>溶けあう夜の最後は</p>
+<p><strong>融合之夜的最后</strong></p>
+<p>飾らないキッスで正直に伝えて</p>
+<p><strong>用不掩饰的吻，诚实地告诉他</strong></p>
+<p>Kiss me, Before "it"</p>
+<p><strong>吻我，在“它”之前</strong></p>
+<p>単純な「I」で</p>
+<p><strong>用一个简单的 “I”</strong></p>
+<p>Kiss me, Before "it"</p>
+<p><strong>吻我，在“它”之前</strong></p>
+<p>愛を語って</p>
+<p><strong>告诉我你的爱</strong></p>
+<p>Kiss me, Before "it"</p>
+<p><strong>吻我，在“它”之前</strong></p>
+<p>簡単なムーブで</p>
+<p><strong>用一个简单的动作</strong></p>
+<p>Kiss me, Before "it"</p>
+<p><strong>吻我，在“它”之前</strong></p>
+<p>こそばゆい建前飲み込んで</p>
+<p><strong>不好意思地把场面话吞下去</strong></p>
+<p>Oh</p>
+<p><strong>哦</strong></p>
+<p>大胆な理由じゃなくていいの</p>
+<p><strong>不是大胆的理由</strong></p>
+<p>等身大の恋をしたって</p>
+<p><strong>而是真实的恋爱</strong></p>
+<p>見え張る不釣り合いな言葉じゃ</p>
+<p><strong>词不达意</strong></p>
+<p>ホントのキミは感じれないよ</p>
+<p><strong>我感觉不到真正的你</strong></p>
+<p>焦る夜に咲かすblarney</p>
+<p><strong>在焦急的夜晚绽放的甜言蜜语</strong></p>
+<p>どうしようもないこのimaginary</p>
+<p><strong>无可奈何的想象</strong></p>
+<p>君のことばかりね...</p>
+<p><strong>全是你的事啊…</strong></p>
+<p>隠した想いの心理戦</p>
+<p><strong>隐藏感情的心理战</strong></p>
+<p>気取らないキッスで正直に伝えて</p>
+<p><strong>用不掩饰的吻，诚实地告诉他</strong></p>
+<p>Kiss me, Before "it"</p>
+<p><strong>吻我，在“它”之前</strong></p>
+<p>単純な「I」で</p>
+<p><strong>用一个简单的 “I”</strong></p>
+<p>Kiss me, Before "it"</p>
+<p><strong>吻我，在“它”之前</strong></p>
+<p>愛を語って</p>
+<p><strong>告诉我你的爱</strong></p>
+<p>Kiss me, Before "it"</p>
+<p><strong>吻我，在“它”之前</strong></p>
+<p>簡単なムーブで</p>
+<p><strong>用一个简单的动作</strong></p>
+<p>Kiss me, Before "it"</p>
+<p><strong>吻我，在“它”之前</strong></p>
+<p>こそばゆい建前飲み込んで</p>
+<p><strong>不好意思地把场面话吞下去</strong></p>
+<p>どうしようもないこのIrony</p>
+<p><strong>我忍不住了，这种可笑的感觉</strong></p>
+<p>押し込むetc.へ</p>
+<p><strong>推开等等之类的...</strong></p>
+<p>溶けあう夜を最後は</p>
+<p><strong>融合之夜的最后</strong></p>
+<p>飾らないキッスで正直に伝えて</p>
+<p><strong>用不掩饰的吻，诚实地告诉他</strong></p>
+<p>Kiss me, Before "it"</p>
+<p><strong>吻我，在“它”之前</strong></p>
+<p>単純な「I」で</p>
+<p><strong>用一个简单的 “I”</strong></p>
+<p>Kiss me, Before "it"</p>
+<p><strong>吻我，在“它”之前</strong></p>
+<p>愛を語って</p>
+<p><strong>告诉我你的爱</strong></p>
+<p>Kiss me, Before "it"</p>
+<p><strong>吻我，在“它”之前</strong></p>
+<p>簡単なムーブで</p>
+<p><strong>用一个简单的动作</strong></p>
+<p>Kiss me, Before "it"</p>
+<p><strong>吻我，在“它”之前</strong></p>
+<p>こそばゆい建前飲み込んで</p>
+<p><strong>不好意思地把场面话吞下去</strong></p>
+<hr>
+<h3 id="show-time-feat-初音ミク">Show Time (feat. 初音ミク) </h3>
+<p>視線は常に淀み合い</p>
+<p><strong>目光总是停滞不前</strong></p>
+<p>睨み合い 泥試合</p>
+<p><strong>互相敌视的比赛</strong></p>
+<p>君の心 応答しない</p>
+<p><strong>你的心没有回应</strong></p>
+<p>動かない それなくない？</p>
+<p><strong>它不会动，它不在那里，是吗？</strong></p>
+<p>外交的なこの時代 新時代？</p>
+<p><strong>这个外交时代，新时代？</strong></p>
+<p>興味ない</p>
+<p><strong>我没兴趣</strong></p>
+<p>鎖国してまた事自体</p>
+<p><strong>我对再次封闭本身并不感兴趣</strong></p>
+<p>ごめんなさい→臨時会</p>
+<p><strong>对不起→特别会议</strong></p>
+<p>すべてを透かして見てよ Eye</p>
+<p><strong>透过眼睛看看一切吧</strong></p>
+<p>等身大 超身体</p>
+<p><strong>真人大小 超级身体</strong></p>
+<p>人間性が半壊</p>
+<p><strong>人性半毁</strong></p>
+<p>心技体 もう忍耐</p>
+<p><strong>已经有耐心了</strong></p>
+<p>悩殺は予定内？ 予想外？ 想定内？</p>
+<p><strong>困难在计划内? 意料之外? 意料之中？</strong></p>
+<p>今後の活躍乞うご期待</p>
+<p><strong>敬请期待今后的成功</strong></p>
+<p>さぁ時間だ It’ Show Time!</p>
+<p><strong>是时候了 It's Show Time!</strong></p>
+<p>解き放ってよ ディザイア 衝動</p>
+<p><strong>释放欲望冲动</strong></p>
+<p>今は僕だけを見ててよ baby</p>
+<p><strong>现在只看我，宝贝</strong></p>
+<p>揺れる光を感じて</p>
+<p><strong>感受摇曳的光</strong></p>
+<p>音を感じて</p>
+<p><strong>感受声音</strong></p>
+<p>僕を感じて</p>
+<p><strong>感受我</strong></p>
+<p>僕を照らしてよ スポットライト</p>
+<p><strong>照亮我吧聚光灯</strong></p>
+<p>視界霞む like a スノーホワイト</p>
+<p><strong>我的视线如一片雪白朦胧</strong></p>
+<p>声の大きさ問題外</p>
+<p><strong>声音的大小问题外</strong></p>
+<p>カマしてやるよ パンチライン</p>
+<p><strong>我会给你一个惊喜的</strong></p>
+<p>世界はもうそうトワイライト</p>
+<p><strong>世界已经像一个黄昏</strong></p>
+<p>膨らむ妄想 未だ fly high</p>
+<p><strong>我的妄想在增长，仍在高飞</strong></p>
+<p>ここで終わる氷河時代</p>
+<p><strong>冰河时代在此结束</strong></p>
+<p>見せてやるよ It’ Show Time!</p>
+<p><strong>我给你看看 It's Show Time!</strong></p>
+<p>君が知るの5年早い 門前払い 預言者たち</p>
+<p><strong>你所知道的早五年的门外先知们</strong></p>
+<p>マジでお前 頭固い 締まるタイ もう文化財</p>
+<p><strong>真是死脑筋 系紧的领带，如同文化遗产</strong></p>
+<p>夢見る冒険者たち ルート完備 筋書き通り</p>
+<p><strong>梦想中的冒险者们有完整的路线，情节一致</strong></p>
+<p>地図をなくして体当たり 空回り 嘲笑い</p>
+<p><strong>丢了地图，打了地铺，转了一圈，冷笑一声</strong></p>
+<p>すべてを手に入れるその才</p>
+<p><strong>拥有一切的才能</strong></p>
+<p>それください もうスタンバイ</p>
+<p><strong>给我那个我已经准备好了</strong></p>
+<p>イージーモードで抱懐 理想崩壊 理性決壊</p>
+<p><strong>轻松的模式，轻松的怀抱，理想的坍塌，理性的崩溃</strong></p>
+<p>悩殺は予定内？ 予想外？ 想定内？</p>
+<p><strong>困难在计划内? 意料之外? 意料之中？</strong></p>
+<p>今後の活躍乞うご期待</p>
+<p><strong>敬请期待今后的成功</strong></p>
+<p>さぁ時間だ It’ Show Time!</p>
+<p><strong>时间到了 It's Show Time!</strong></p>
+<p>解き放ってよ ディザイア 衝動</p>
+<p><strong>释放欲望冲动</strong></p>
+<p>今は僕だけを見ててよ baby</p>
+<p><strong>现在只看我，宝贝</strong></p>
+<p>揺れる光を感じて</p>
+<p><strong>感受摇曳的光</strong></p>
+<p>音を感じて</p>
+<p><strong>感受声音</strong></p>
+<p>僕を感じて</p>
+<p><strong>感受我</strong></p>
+<p>僕を照らしてよ スポットライト</p>
+<p><strong>照亮我吧聚光灯</strong></p>
+<p>視界霞む like a スノーホワイト</p>
+<p><strong>我的视线如一片雪白朦胧</strong></p>
+<p>声の大きさ問題外</p>
+<p><strong>声音的大小问题外</strong></p>
+<p>カマしてやるよ パンチライン</p>
+<p><strong>我会给你一个惊喜的</strong></p>
+<p>世界はもうそうトワイライト</p>
+<p><strong>世界已经像一个黄昏</strong></p>
+<p>膨らむ妄想 未だ fly high</p>
+<p><strong>我的妄想在增长，仍在高飞</strong></p>
+<p>ここで終わる氷河時代</p>
+<p><strong>冰河时代在此结束</strong></p>
+<p>見せてやるよ It’ Show Time!</p>
+<p><strong>我会告诉你 It's Show Time！</strong></p>
+<hr>
+<h3 id="challengeralbumnextlight-02">Challenger(album:Nextlight 02) </h3>
+<p>弱くたっていい</p>
+<p><strong>即使弱小也没关系</strong></p>
+<p>受けられる勇気かﾞあるなら</p>
+<p><strong>如果你有勇气接受的话</strong></p>
+<p>悩んたﾞっていい</p>
+<p><strong>即使烦恼也没关系</strong></p>
+<p>歩み止めなけれはﾞ</p>
+<p><strong>如果不停下脚步</strong></p>
+<p>葛藤の数たﾞけ世界は広かﾞり</p>
+<p><strong>纷争之多，世界之广阔</strong></p>
+<p>明日を色つﾞけるから</p>
+<p><strong>因为会给明天涂上色彩</strong></p>
+<p>生まれた意味</p>
+<p><strong>出生的意义</strong></p>
+<p>生きてる意味</p>
+<p><strong>生存的意义</strong></p>
+<p>答えられないの嫌しﾞゃない？</p>
+<p><strong>会觉得不能回答很困扰吗？</strong></p>
+<p>僕らはたたﾞ迷いなかﾞら見つけていく</p>
+<p><strong>我们只是边迷茫边寻找</strong></p>
+<p>諦めない限り 世界は続くから</p>
+<p><strong>只要不放弃，世界就会继续存在下去</strong></p>
+<p>あ～</p>
+<p><strong>啊~</strong></p>
+<p>誰かに良く見られるため</p>
+<p><strong>为了受到别人的尊敬</strong></p>
+<p>自分を殺し頷いた</p>
+<p><strong>牺牲自我点头称是</strong></p>
+<p>こんなに広い世界は</p>
+<p><strong>这么广阔的世界</strong></p>
+<p>またﾞ道を示してくれないんたﾞ</p>
+<p><strong>还没有向我显现出方向</strong></p>
+<p>心の中咲かない花</p>
+<p><strong>心中未开的花儿</strong></p>
+<p>いつか蕾開くときあるなら</p>
+<p><strong>如果有一天能绽放的话</strong></p>
+<p>世界超えるその新しい朝</p>
+<p><strong>那翻越世界的新晨光</strong></p>
+<p>踏み出す勇気くれないか</p>
+<p><strong>会给予我们勇气踏出一步吗？</strong></p>
+<p>とﾞんな人たﾞって前に進むこと</p>
+<p><strong>任何人都有向前迈进的能力</strong></p>
+<p>一途にてﾞきたから</p>
+<p><strong>因为我们坚定不移地朝前走</strong></p>
+<p>掴めたんたﾞ そのチャンスを</p>
+<p><strong>所以才抓住了现在的机会</strong></p>
+<p>次は君の番てﾞしょ？</p>
+<p><strong>下一个机会轮到你了吧？</strong></p>
+<p>知ったかふﾞりてﾞ</p>
+<p><strong>即使假装懂得一些知识</strong></p>
+<p>頷くたﾞけしﾞゃ何にも</p>
+<p><strong>只点头称是却不采取行动</strong></p>
+<p>変わってくれないの</p>
+<p><strong>什么都不会改变</strong></p>
+<p>もう知ってるてﾞしょ？</p>
+<p><strong>你应该已经知道了吧？</strong></p>
+<p>あ～</p>
+<p><strong>啊~</strong></p>
+<p>君かﾞここにいる理由それはきっと</p>
+<p><strong>你在这里的理由，一定是因为</strong></p>
+<p>ここてﾞ叫んてﾞる声</p>
+<p><strong>要这里大声喊出来</strong></p>
+<p>世界に届けるの</p>
+<p><strong>传达到全世界</strong></p>
+<p>僕らはたたﾞ</p>
+<p><strong>我们只是</strong></p>
+<p>迷いなかﾞら見つけていく</p>
+<p><strong>在迷惘中逐渐找到方向并前进</strong></p>
+<p>諦めない限り</p>
+<p><strong>只要不放弃</strong></p>
+<p>世界は続くから</p>
+<p><strong>世界就会继续存在下去</strong></p>
+<p>あ～</p>
+<p><strong>啊~</strong></p>
+<hr>
+<h3 id="dont-tease-feat-初音ミク">Don't Tease! (feat. 初音ミク) </h3>
+<p>Everyone</p>
+<p><strong>每个人</strong></p>
+<p>Everyone</p>
+<p><strong>每个人</strong></p>
+<p>Imagine the future.</p>
+<p><strong>想象未来</strong></p>
+<p>描いた見果てぬ夢</p>
+<p><strong>绘制这不切实际的梦想</strong></p>
+<p>土足で踏み込まれる筋合いなどミリもないが?</p>
+<p><strong>难道会有理由允许别人用脚踩踏吗？</strong></p>
+<p>睨むヴァイパー 始まるサイファー</p>
+<p><strong>凝视的蝰蛇，启幕的密码</strong></p>
+<p>人としてどうか問われる夜は</p>
+<p><strong>在被问及你作为一个人的晚上</strong></p>
+<p>閉塞的なロジックで騙りだしたトリック</p>
+<p><strong>通过封闭的逻辑开始虚张声势的把戏</strong></p>
+<p>ねぇ馬鹿じゃないわ</p>
+<p><strong>嘿，别以为我傻</strong></p>
+<p>I know it!</p>
+<p><strong>我知道！</strong></p>
+<p>Don't tease me!!</p>
+<p><strong>别戏弄我！！</strong></p>
+<p>Who do you think I am?</p>
+<p><strong>你以为我是谁？</strong></p>
+<p>(think a, think a)</p>
+<p><strong>（考虑一下，考虑一下）</strong></p>
+<p>足りない想像力でTHINKING!</p>
+<p><strong>用不足的想象力思考！</strong></p>
+<p>Who do you think I am?</p>
+<p><strong>你以为我是谁？</strong></p>
+<p>(think a, think a)</p>
+<p><strong>（考虑一下，考虑一下）</strong></p>
+<p>Think about the "truth"</p>
+<p><strong>思考“真相”</strong></p>
+<p>鈍る感受性</p>
+<p><strong>感受变迟钝</strong></p>
+<p>捨てる紙とペン</p>
+<p><strong>抛弃纸和笔</strong></p>
+<p>歪む倫理、語勢</p>
+<p><strong>扭曲的伦理，语调</strong></p>
+<p>それは君のせい</p>
+<p><strong>那都是你的错</strong></p>
+<p>澄ます顔で呟く</p>
+<p><strong>面无表情地喃喃自语</strong></p>
+<p>逆撫でする「つまんない」</p>
+<p><strong>反感地说着"无聊"</strong></p>
+<p>過ぎた飽和点</p>
+<p><strong>过了饱和点</strong></p>
+<p>嵩むラフプレー</p>
+<p><strong>累积的粗暴行径</strong></p>
+<p>これは君のせい</p>
+<p><strong>这都是你的错</strong></p>
+<p>まさに君のせい</p>
+<p><strong>完全是你的错</strong></p>
+<p>所詮返り点で得た整合性</p>
+<p><strong>到头来是通过转折点得到的一致性</strong></p>
+<p>ハリボテの哲学じゃ...w</p>
+<p><strong>这只是虚假的的哲学呀…呵</strong></p>
+<p>Anyone, Anyone</p>
+<p><strong>任何人，任何人</strong></p>
+<p>Get me out of this mess?</p>
+<p><strong>帮我摆脱这困境？</strong></p>
+<p>口下手なこの世界で</p>
+<p><strong>在这个不擅长言辞的世界里</strong></p>
+<p>Tell me why, Tell me why</p>
+<p><strong>告诉我为什么，告诉我为什么</strong></p>
+<p>託した本気をおざなりにした理由を</p>
+<p><strong>为什么把我托付的真心对待得如此敷衍？</strong></p>
+<p>騙るライヤー 耽るはハイヤー</p>
+<p><strong>欺骗的撒谎者，沉溺于狂欢之中</strong></p>
+<p>人としてどうと説かれる夜は</p>
+<p><strong>在被问及你作为一个人的晚上</strong></p>
+<p>盲目的なゴシップで絞りだしたホリック</p>
+<p><strong>通过盲目的八卦来榨取出来的狂热者</strong></p>
+<p>ねぇ馬鹿じゃないわ</p>
+<p><strong>嘿，别以为我傻</strong></p>
+<p>I know it!</p>
+<p><strong>我知道！</strong></p>
+<p>Don't tease me!!</p>
+<p><strong>别戏弄我！！</strong></p>
+<p>睨むヴァイパー 始まるサイファー</p>
+<p><strong>凝视的蝰蛇，启幕的密码</strong></p>
+<p>人としてどうか問われる夜は</p>
+<p><strong>在被问及你作为一个人的晚上</strong></p>
+<p>閉塞的なロジックで語りだしたトリック</p>
+<p><strong>通过封闭的逻辑开始虚张声势的把戏</strong></p>
+<p>ねぇ馬鹿じゃないわ</p>
+<p><strong>嘿，别以为我傻</strong></p>
+<p>I know it!</p>
+<p><strong>我知道！</strong></p>
+<p>Don't tease me!!</p>
+<p><strong>别戏弄我！！</strong></p>
+<p>Who do you think I am?</p>
+<p><strong>你以为我是谁？</strong></p>
+<p>(think a, think a)</p>
+<p><strong>（考虑一下，考虑一下）</strong></p>
+<p>足りない想像力でTHINKING!</p>
+<p><strong>用不足的想象力思考！</strong></p>
+<p>Who do you think I am?</p>
+<p><strong>你以为我是谁？</strong></p>
+<p>(think a, think a)</p>
+<p><strong>（考虑一下，考虑一下）</strong></p>
+<p>Think about the "truth"</p>
+<p><strong>思考“真相”</strong></p>
+<p>鈍る感受性</p>
+<p><strong>感受变迟钝</strong></p>
+<p>捨てる紙とペン</p>
+<p><strong>抛弃纸和笔</strong></p>
+<p>ゆがむ倫理、語勢</p>
+<p><strong>扭曲的伦理，措辞</strong></p>
+<p>それは君のせい</p>
+<p><strong>那都是你的错</strong></p>
+<p>澄ます顔で呟く</p>
+<p><strong>面无表情地喃喃自语</strong></p>
+<p>逆撫でする「つまんない」</p>
+<p><strong>反感地说着"无聊"</strong></p>
+<p>過ぎた飽和点</p>
+<p><strong>过了饱和点</strong></p>
+<p>嵩むラフプレー</p>
+<p><strong>累积的粗暴行径</strong></p>
+<p>これは君のせい</p>
+<p><strong>这都是你的错</strong></p>
+<p>まさに君のせい</p>
+<p><strong>完全是你的错</strong></p>
+<p>所詮返り点で得た整合性</p>
+<p><strong>到头来是通过转折点得到的一致性</strong></p>
+<p>ハリボテの哲学じゃ...w。</p>
+<p><strong>这只是虚假的的哲学呀…呵</strong></p>
+<hr>
+<h2 id="mwk">Mwk </h2>
+<h3 id="day-of-beginning">Day of Beginning </h3>
+<p>聞き慣れた calling 始まりの合図</p>
+<p><strong>熟悉的呼叫 开始的信号</strong></p>
+<p>鮮やかな morning 映しだす eyes</p>
+<p><strong>鲜艳的晨光 映出的眼睛</strong></p>
+<p>眩しいくらいの 朝日の向こう側</p>
+<p><strong>令人眩晕的 朝阳的另一边</strong></p>
+<p>感じたくて 見てみたくて</p>
+<p><strong>想要感受 想要看到</strong></p>
+<p>その期待を胸に秘めて</p>
+<p><strong>怀揣着心中的期待</strong></p>
+<p>今日も一歩を踏みしめていく</p>
+<p><strong>今天也要迈出一步</strong></p>
+<p>さあ迎えよう</p>
+<p><strong>来迎接吧</strong></p>
+<p>Day of Beginning</p>
+<p><strong>初始之日</strong></p>
+<p>透き通る curtain そよ風奏で</p>
+<p><strong>澄澈之帘 微风拂面</strong></p>
+<p>僕だけの garden 灯火絶えず</p>
+<p><strong>仅属于我的花园 灯火不断</strong></p>
+<p>繰り返す日々の 朝日の向こう側</p>
+<p><strong>重复的每一天 朝阳的另一边</strong></p>
+<p>感じたくて 見てみたくて</p>
+<p><strong>想要感受 想要看到</strong></p>
+<p>その期待を胸に秘めて</p>
+<p><strong>怀揣着我心中的期待</strong></p>
+<p>明日の一歩も踏みしめていく</p>
+<p><strong>踏上明天的每一步</strong></p>
+<p>さあ迎えよう</p>
+<p><strong>来迎接吧</strong></p>
+<p>Day of Beginning</p>
+<p><strong>初始之日</strong></p>
+<hr>
+<h2 id="twinfield">Twinfield </h2>
+<h3 id="bugfix-girl">Bugfix Girl </h3>
+<p>いつまで見つめているつもりなの？</p>
+<p><strong>你打算一直盯着看到什么时候？</strong></p>
+<p>そろそろもういいでしょ</p>
+<p><strong>差不多可以了吧</strong></p>
+<p>早く行こうよ！</p>
+<p><strong>快点出发吧！</strong></p>
+<p>いつもの目移り浮気性</p>
+<p><strong>惯常地转移视线 见异思迁的本性</strong></p>
+<p>選択肢が多い主人公を気取るの</p>
+<p><strong>佯装备择选项众多的男主角？</strong></p>
+<p>やめてっていつも言ってるでしょ。</p>
+<p><strong>一贯以来我都在说请不要这样</strong></p>
+<p>ね！！</p>
+<p><strong>真是的！！</strong></p>
+<p>手を繋いでても心はここにない</p>
+<p><strong>即便紧握双手心思也不在我这</strong></p>
+<p>正直そんなにかっこよくもないくせに！</p>
+<p><strong>说实话你明明也没有那么帅！</strong></p>
+<p>ごめん。言いすぎた。</p>
+<p><strong>抱歉，说得太过分了</strong></p>
+<p>でも君のイイトコは私が一番知ってるでしょ</p>
+<p><strong>不过你身上的优点我可是最清楚的了吧</strong></p>
+<p>こっちを向いて</p>
+<p><strong>请把脸转向这边</strong></p>
+<p>負けたくないよ</p>
+<p><strong>我可不想认输</strong></p>
+<p>瞳に映る私じゃない誰かは</p>
+<p><strong>映照在眼眸里的其他人</strong></p>
+<p>今すぐ消して</p>
+<p><strong>现在立刻给我消失！</strong></p>
+<p>今キスをして</p>
+<p><strong>现在就和我接吻！</strong></p>
+<p>いつものように殴り飛ばしてあげる</p>
+<p><strong>像往常一样替你揍飞他们</strong></p>
+<p>見境なさすぎ</p>
+<p><strong>真是饥不择食</strong></p>
+<p>あんな子がいいの？</p>
+<p><strong>那样的人也可以吗？</strong></p>
+<p>色々もうどうでも良くなってきた…</p>
+<p><strong>历经各种事情已经变得满不在乎了...</strong></p>
+<p>「しょうがない」とかそんなのいいし</p>
+<p><strong>“没办法呢”诸如此类的话真的那么好骗吗</strong></p>
+<p>とにかく言い訳にもなってないし</p>
+<p><strong>不管怎样这都没有说服力啊</strong></p>
+<p>恋愛上級者のつもりも沢山よ</p>
+<p><strong>恋爱达人的套路如此之多</strong></p>
+<p>どこかへ出掛けても不安しかない</p>
+<p><strong>无论出门前往何处都感到不安</strong></p>
+<p>あんなに 私に カッコつけいたくせに！</p>
+<p><strong>明明如此那般 对我耍帅装酷！</strong></p>
+<p>所詮沢山の愛の一つ</p>
+<p><strong>终归只是众多爱欲中的一个</strong></p>
+<p>そんなのは私が一番知ってるでしょ</p>
+<p><strong>那样的事请我可是最清楚了</strong></p>
+<p>こっちを向いて</p>
+<p><strong>请把脸转向这边</strong></p>
+<p>負けたくないよ</p>
+<p><strong>我可不想认输</strong></p>
+<p>瞳に映る私じゃない誰かは</p>
+<p><strong>映照在眼眸里的其他人</strong></p>
+<p>今すぐ消して</p>
+<p><strong>现在立刻给我消失！</strong></p>
+<p>今キスをして</p>
+<p><strong>现在就和我接吻！</strong></p>
+<p>いつものように殴り飛ばしてあげる</p>
+<p><strong>像往常一样替你揍飞他们</strong></p>
+<p>東京駅でいつも別れるルーティン</p>
+<p><strong>在东京站前做好寻常的分别惯例</strong></p>
+<p>決まった時間に電話も鳴ってる</p>
+<p><strong>电话铃声也总是在固定的时间响起</strong></p>
+<p>わからないはずないでしょ？</p>
+<p><strong>你不可能不知道吧？</strong></p>
+<p>なに焦ってるの？</p>
+<p><strong>为何如此焦虑呢？</strong></p>
+<p>いつもの言葉をはやく言えばいいじゃない？</p>
+<p><strong>早点说出日常的花言巧语不就好了吗？</strong></p>
+<p>こっちを向いて</p>
+<p><strong>请把脸转向这边</strong></p>
+<p>負けたくないよ</p>
+<p><strong>我可不想认输</strong></p>
+<p>瞳に映る私じゃない誰かは</p>
+<p><strong>映照在眼眸里的其他人</strong></p>
+<p>今すぐ消して</p>
+<p><strong>现在立刻给我消失！</strong></p>
+<p>今キスをして</p>
+<p><strong>现在就和我接吻！</strong></p>
+<p>いつものように殴り飛ばしてあげる</p>
+<p><strong>像往常一样替你揍飞他们</strong></p>
+<hr>
+<h3 id="イリーガルキャンディ-feat-meiko">イリーガルキャンディ (feat. MEIKO) </h3>
+<p>夜を彷徨う踊る</p>
+<p><strong>夜晚徘徊舞动</strong></p>
+<p>甘い弱音</p>
+<p><strong>甜蜜的低语</strong></p>
+<p>紛うことなく吐いて捨てる日々</p>
+<p><strong>无法掩饰的每一天</strong></p>
+<p>ネオンに浸るSilent nightさ</p>
+<p><strong>沉浸在霓虹的寂静之夜</strong></p>
+<p>植え付けた失楽</p>
+<p><strong>播下的失乐</strong></p>
+<p>そろそろイリーガルな</p>
+<p><strong>已经有点非法</strong></p>
+<p>キャンディ×3</p>
+<p><strong>糖果×3</strong></p>
+<p>ヒステリカル・ロンリー・ダンシング</p>
+<p><strong>歇斯底里的孤独之舞</strong></p>
+<p>キャンディ×3　Bomb</p>
+<p><strong>糖果×3 炸弹</strong></p>
+<p>舌を這う　Flappy Smoking</p>
+<p><strong>舌头蠕动 烟雾飘逸</strong></p>
+<p>妄想癖時々暴走中のラヴ</p>
+<p><strong>时而狂热的幻想中的爱</strong></p>
+<p>DikiDiki Don</p>
+<p>DikiDiki Don</p>
+<p>DikiDiki Don</p>
+<p>DikiDiki Don</p>
+<p>ちょこざいな</p>
+<p><strong>轻微的</strong></p>
+<p>独占感染症</p>
+<p><strong>独占感染症</strong></p>
+<p>キャンディキャンディBomb</p>
+<p><strong>糖果 糖果 炸弹</strong></p>
+<p>ヒステリカル・ロンリー・ダンシング</p>
+<p><strong>疯狂的孤独之舞</strong></p>
+<p>キャンディキャンディキャンディBomb</p>
+<p><strong>糖果 糖果 糖果 炸弹</strong></p>
+<p>キャンディキャンディBomb</p>
+<p><strong>糖果 糖果 炸弹</strong></p>
+<p>キャンディキャンディ</p>
+<p><strong>糖果 糖果</strong></p>
+<p>歪なブラックアウトDisco</p>
+<p><strong>扭曲的黑暗迪斯科</strong></p>
+<p>ほんのり媚びる踊る</p>
+<p><strong>微媚的跳舞</strong></p>
+<p>植え付けた鼓動</p>
+<p><strong>植下的悸动</strong></p>
+<p>紛うことなく先々もなく</p>
+<p><strong>无处不在，没有先后</strong></p>
+<p>遮音で統べる?</p>
+<p><strong>由音量掌控？</strong></p>
+<p>キリないさ</p>
+<p><strong>没有尽头</strong></p>
+<p>拗ねるような欠落</p>
+<p><strong>像耍小脾气一样的缺失</strong></p>
+<p>そろそろいいみたいだ</p>
+<p><strong>似乎差不多该结束了</strong></p>
+<p>キャンディ×3</p>
+<p><strong>糖果×3</strong></p>
+<p>ヒステリカル・ロンリー・ダンシング</p>
+<p><strong>歇斯底里的孤独之舞</strong></p>
+<p>キャンディ×3　Bomb</p>
+<p><strong>糖果×3 炸弹</strong></p>
+<p>伝えたい獄中Smoking</p>
+<p><strong>渴望传达的囚禁吸烟</strong></p>
+<p>放送禁止ドキドキ暴走中の○○○</p>
+<p><strong>禁止播放，紧张且失控的○○○</strong></p>
+<p>DikiDiki Don</p>
+<p>DikiDiki Don</p>
+<p>DikiDiki Don</p>
+<p>DikiDiki Don</p>
+<p>独裁者</p>
+<p><strong>独裁者</strong></p>
+<p>撲滅完全勝利</p>
+<p><strong>消灭全面胜利</strong></p>
+<p>キャンディキャンディBomb×３</p>
+<p><strong>糖果 糖果 炸弹×3</strong></p>
+<p>ヒステリカル・ロンリー・ダンシング</p>
+<p><strong>疯狂的孤独之舞</strong></p>
+<p>キャンディキャンディキャンディBomb</p>
+<p><strong>糖果 糖果 糖果 炸弹</strong></p>
+<p>キャンディキャンディBomb</p>
+<p><strong>糖果 糖果 炸弹</strong></p>
+<p>キャンディキャンディ</p>
+<p><strong>糖果 糖果</strong></p>
+<p>歪なブラックアウトDisco</p>
+<p><strong>扭曲的黑暗迪斯科</strong></p>
+<hr>
+<h3 id="da-da-dawn-feat-花隈千冬">Da Da Dawn (feat. 花隈千冬) </h3>
+<p>眠れないようなことがあって</p>
+<p><strong>有让人辗转难眠的事情发生</strong></p>
+<p>言葉と言葉を交わす度</p>
+<p><strong>每次交换言辞时</strong></p>
+<p>笑うことができたらいいなとか</p>
+<p><strong>如果能笑，那就好了</strong></p>
+<p>零した夜明け前</p>
+<p><strong>在黎明之前</strong></p>
+<p>どうしよもないようなことさえ</p>
+<p><strong>即使是那些看似无能为力的事情</strong></p>
+<p>繋げて掲げて足掻くだけで狂おしいよ</p>
+<p><strong>只要连接、高举和拼命争取，就会变得非常疯狂</strong></p>
+<p>儚く風がすり抜けては届けてく</p>
+<p><strong>转瞬即逝，风穿越而过，将其传达出去</strong></p>
+<p>例えば、空っぽの景色</p>
+<p><strong>例如，空荡荡的景色</strong></p>
+<p>広がる度に重なる少しずつ</p>
+<p><strong>随着扩展逐渐叠加</strong></p>
+<p>数えてみたってもう</p>
+<p><strong>即使试着数也已经</strong></p>
+<p>変わらない想いだけ</p>
+<p><strong>仅有不变的情感</strong></p>
+<p>忘れないでよ</p>
+<p><strong>请不要忘记</strong></p>
+<p>晴れ渡ることのない夜空で</p>
+<p><strong>在晴朗无云的夜空下</strong></p>
+<p>二人歩く影が</p>
+<p><strong>两个人的行走的影子</strong></p>
+<p>ゆっくり融けてゆくよ</p>
+<p><strong>缓慢地融化</strong></p>
+<p>降り注ぐ街の光が続くと</p>
+<p><strong>当街道上的灯光不断洒下</strong></p>
+<p>思っていたDAWN DAWN</p>
+<p><strong>我曾想过这是黎明（DAWN）</strong></p>
+<p>苦し紛れの言葉だって</p>
+<p><strong>即使是令人困扰的话语</strong></p>
+<p>君はもう微笑むだけのムービー</p>
+<p><strong>你现在只是一个微笑的电影</strong></p>
+<p>胸の奥に閉じ込めてたとか</p>
+<p><strong>我将它封存在心底</strong></p>
+<p>零した夜明け前</p>
+<p><strong>于黎明之前</strong></p>
+<p>曖昧な時間を辿ってく</p>
+<p><strong>跟随着模糊的时光</strong></p>
+<p>響いては消えてくだけのふり</p>
+<p><strong>响起后消散的只是伪装</strong></p>
+<p>壊してよ</p>
+<p><strong>打破吧</strong></p>
+<p>儚く風がすり抜けては解けてく</p>
+<p><strong>稍纵即逝，风穿越而来，然后逐渐散去</strong></p>
+<p>例えば迷子の猫と</p>
+<p><strong>例如，一只迷路的猫</strong></p>
+<p>二人で探し続けて少しずつ</p>
+<p><strong>两个人一起不断地慢慢寻找</strong></p>
+<p>弾いて鳴いてみたってもう</p>
+<p><strong>即使弹奏并让它响起，但已经</strong></p>
+<p>繋がることのない</p>
+<p><strong>不会建立联系</strong></p>
+<p>最後みたいだ</p>
+<p><strong>就像是最后一样</strong></p>
+<p>晴れ渡ることのない夜空に</p>
+<p><strong>在永不晴朗的夜空中</strong></p>
+<p>二人を照らす星が揺れて咲いてくよ</p>
+<p><strong>星星摇晃着，照亮着我们两个，然后绽放</strong></p>
+<p>初めて繋いだ手を引いてずっと</p>
+<p><strong>永远握住我们首次牵手的手</strong></p>
+<p>輝いてDAWN DAWN</p>
+<p><strong>明亮闪耀，破晓黎明</strong></p>
+<hr>
+<h2 id="manika">Manika </h2>
+<h3 id="イロニコ">イロニコ </h3>
+<p>嗚呼命がもう足りないよ</p>
+<p><strong>啊啊，我的生命不够了</strong></p>
+<p>君が君で居れる内に消えろ</p>
+<p><strong>在你还能保持你自己的时候消失吧</strong></p>
+<p>ねぇ何周目の人生だ？</p>
+<p><strong>呐，这是第几周目的人生？</strong></p>
+<p>要らない要らない要らない要らない！</p>
+<p><strong>不需要 不需要 不需要 不需要！</strong></p>
+<p>嗚呼冗談なら言いたいよ</p>
+<p><strong>啊啊，如果这是个玩笑我就说了</strong></p>
+<p>誰も彼も悦に浸るばかり</p>
+<p><strong>每个人都沉浸在喜悦之中</strong></p>
+<p>ねぇ指差したらどうなった？</p>
+<p><strong>呐，如果我指出来会怎样？</strong></p>
+<p>ほら見てて</p>
+<p><strong>看着吧</strong></p>
+<p>嗚呼間違いに気附いたって</p>
+<p><strong>啊啊，即使察觉到错误</strong></p>
+<p>暗い道を歩くだけで良いよ</p>
+<p><strong>只需走在这条黑暗的路上就好了</strong></p>
+<p>ねぇ決壊した愛情は？</p>
+<p><strong>呐，那决堤的爱情呢？</strong></p>
+<p>知らない知らない知らない知らない！</p>
+<p><strong>不知道 不知道 不知道 不知道！</strong></p>
+<p>嗚呼騙されてしまったんだ</p>
+<p><strong>啊啊，我被欺骗了</strong></p>
+<p>アレもコレも赤く濁る様に</p>
+<p><strong>这个也是，那个也是，都变成了红色的浊流</strong></p>
+<p>ねぇ押してみたらどうなった？</p>
+<p><strong>呐，试着按一下会怎样？</strong></p>
+<p>ほら見てて</p>
+<p><strong>看着吧</strong></p>
+<p>臆病で不平等なんて</p>
+<p><strong>胆小和不公平是不应该存在的</strong></p>
+<p>見せない見せない見せないよ！</p>
+<p><strong>不给你看 不给你看 不给你看!</strong></p>
+<p>冷え切って狂ってる風の</p>
+<p><strong>对着从凛冽的疯狂之风</strong></p>
+<p>上に落ちる涙に言った</p>
+<p><strong>上落下的眼泪说</strong></p>
+<p>人間で居られない程間違ったんだ</p>
+<p><strong>我错得不能再做人了</strong></p>
+<p>孤独だけが夜を舞ったんだ</p>
+<p><strong>只有孤独在黑夜中起舞</strong></p>
+<p>変われない終わりの運命を</p>
+<p><strong>无法改变的最终命运</strong></p>
+<p>今ここで見てて欲しい</p>
+<p><strong>希望你此时此刻在这里看着</strong></p>
+<p>生きてるとか死んでるとか君にはもう関係ない</p>
+<p><strong>活着或是死去，都与你已经没有关系</strong></p>
+<p>泣いてるとか謝るとか君にはもう関係ない</p>
+<p><strong>哭泣或是道歉，都与你已经没有关系</strong></p>
+<p>生きてるとか死んでるとか君にはもう関係ない</p>
+<p><strong>活着或是死去，都与你已经没有关系</strong></p>
+<p>ごめんなさいごめんなさいごめんなさいごめんなさい</p>
+<p><strong>对不起 对不起 对不起 对不起</strong></p>
+<p>散々な理想像なんて</p>
+<p><strong>那些破碎的理想像</strong></p>
+<p>映えない映えない映えないよ！</p>
+<p><strong>没有魅力 没有魅力 没有魅力！</strong></p>
+<p>煮え切って狂ってる様な</p>
+<p><strong>像是被烧得滚烫到疯狂的样子</strong></p>
+<p>下に昇る僕には無いさ</p>
+<p><strong>我没有你这样向上攀登的勇气</strong></p>
+<p>人間で居られない程間違ったんだ</p>
+<p><strong>我犯下了使我不能称之为人的错误</strong></p>
+<p>孤独だけが夜を舞ったんだ</p>
+<p><strong>只有孤独在黑夜中起舞</strong></p>
+<p>変われない終わりの運命を</p>
+<p><strong>无法改变的最终命运</strong></p>
+<p>今ここで見てて欲しい</p>
+<p><strong>希望你此时此刻在这里看着</strong></p>
+<hr>
+<h2 id="椎乃味醂">椎乃味醂 </h2>
+<h3 id="ill-never-be-apart-from-you">I’ll Never Be (Apart From) You </h3>
+<p>大体表層だけ切り取って、</p>
+<p><strong>仅仅切割表层</strong></p>
+<p>淡々と集めるだけの、</p>
+<p><strong>独自冷静地收集</strong></p>
+<p>毎回構造だけ乗っ取って、</p>
+<p><strong>每次只乘取结构</strong></p>
+<p>簡単に並べるだけの、ただそれだけの、</p>
+<p><strong>只是简单地排列，仅仅是那样而已</strong></p>
+<p>見て呉れだけ良いそれだけが、</p>
+<p><strong>只要有人欣赏那就足够了</strong></p>
+<p>未だ溢れかえるこの場所の、</p>
+<p><strong>在这个地方仍然溢满着</strong></p>
+<p>どこか片隅で思い返すのは、</p>
+<p><strong>在某个角落回忆起的</strong></p>
+<p>あの日の号哭だ。</p>
+<p><strong>是那天的哭声。</strong></p>
+<p>大体表層だけ切り取って、</p>
+<p><strong>仅仅切割表层</strong></p>
+<p>淡々と集めるだけの、</p>
+<p><strong>独自冷静地收集</strong></p>
+<p>毎回構造だけ乗っ取って、</p>
+<p><strong>每次只乘取结构</strong></p>
+<p>簡単に並べるだけの、ただそれだけの、</p>
+<p><strong>只是简单地排列，仅仅是那样而已</strong></p>
+<p>見て呉れだけ良いそれだけを、</p>
+<p><strong>只要有人欣赏那就足够了</strong></p>
+<p>「きっとこれが創造だ」などと、</p>
+<p><strong>把它描述为“这肯定是创造”</strong></p>
+<p>形容するのを嫌と思うのは、</p>
+<p><strong>我憎恶这样的描述</strong></p>
+<p>いつかの行動が、満足が、</p>
+<p><strong>过去的行动，满足感</strong></p>
+<p>その裏無視され続けた数多の、</p>
+<p><strong>被无视在背后的众多的</strong></p>
+<p>感情が、実際が、</p>
+<p><strong>情感，现实</strong></p>
+<p>今日も心臓を絞めつけてる、</p>
+<p><strong>今天仍然令心脏紧绷着</strong></p>
+<p>この後悔が、想像が、</p>
+<p><strong>这种懊悔和想象</strong></p>
+<p>いつまでたっても地につかない、</p>
+<p><strong>无论过了多久也无法释怀</strong></p>
+<p>あの感触が思い出さす、</p>
+<p><strong>那种触感勾起回忆</strong></p>
+<p>「あなたには成れない」</p>
+<p><strong>“你无法成为那样的人”</strong></p>
+<p>ただその一点だ。</p>
+<p><strong>仅仅是那一点而已。</strong></p>
+<p>とはいえ独創とは、切り取って、</p>
+<p><strong>然而独创之处，在于切割</strong></p>
+<p>集めたり並べることと、</p>
+<p><strong>收集和排列的行为</strong></p>
+<p>大体構造自体は一緒で</p>
+<p><strong>大体结构本身是相同的</strong></p>
+<p>その差は思慮の程度だ。</p>
+<p><strong>区别在于思考的程度。</strong></p>
+<p>ただそれだけの、</p>
+<p><strong>只是那样而已</strong></p>
+<p>事実に気づかず留め立ても、</p>
+<p><strong>即使没有意识到事实也无法制止</strong></p>
+<p>受けられない誰かが今日も、</p>
+<p><strong>今天仍有某人无法接受</strong></p>
+<p>鏡写しの様に、</p>
+<p><strong>像镜子一样</strong></p>
+<p>どこかで誰かを傷つけている。</p>
+<p><strong>在某个地方伤害着某人。</strong></p>
+<p>月曜日の夕暮れ、海岸でコーヒーを</p>
+<p><strong>在周一的黄昏时分，在海岸边喝咖啡</strong></p>
+<p>飲む魔法使いのアルパカは、</p>
+<p><strong>喝咖啡的是魔法师羊驼</strong></p>
+<p>雪の結晶でピアノの曲を奏でた。</p>
+<p><strong>以雪花结晶弹奏钢琴曲</strong></p>
+<p>雨の中で眠る紫色のヘリウム風船は、</p>
+<p><strong>在雨中入眠的紫色氦气球</strong></p>
+<p>透明な猫の歌声に導かれて、</p>
+<p><strong>被透明猫咪的歌声引导</strong></p>
+<p>木曜日にカレーを食べる夢を見た。</p>
+<p><strong>梦见在星期四吃咖喱</strong></p>
+<p>これはGPT-4で生成された、</p>
+<p><strong>这是由GPT-4生成的</strong></p>
+<p>なんら意味性をもたない文章ですが、</p>
+<p><strong>没有任何意义的文章</strong></p>
+<p>音楽というフィルターだけでヒトはきっと、</p>
+<p><strong>只依靠音乐这一过滤器</strong></p>
+<p>ここに比喩性を求めてしまう。</p>
+<p><strong>人们必然会在其中寻求隐喻性。</strong></p>
+<p>その推測こそ、人間らしさの根幹なのだ。</p>
+<p><strong>这种推测，正是人性的根本</strong></p>
+<p>思慮の普遍性について。</p>
+<p><strong>关于思考的普遍性。</strong></p>
+<p>感情を、情報を、</p>
+<p><strong>感情、信息</strong></p>
+<p>重ねて獲得してきた数多の、</p>
+<p><strong>通过不断获得的众多的</strong></p>
+<p>色彩を、実際を、</p>
+<p><strong>颜色、事实</strong></p>
+<p>今日の心臓を裏付けてる、</p>
+<p><strong>支撑着今天的心脏</strong></p>
+<p>あの後悔を、奮励を、</p>
+<p><strong>那些懊悔、鼓励</strong></p>
+<p>踏んだ今だから振り替えられる、</p>
+<p><strong>因为踏出了这一步，现在可以重新开始</strong></p>
+<p>この感覚を想い言える、</p>
+<p><strong>这种感觉能够在思考中表达出</strong></p>
+<p>「あなたに離れない」</p>
+<p><strong>“我不会离开你”</strong></p>
+<p>ただその一線だ。</p>
+<p><strong>只是这条界线。</strong></p>
+<hr>
+<h3 id="osint">OSINT </h3>
+<p>verse1（vo. 歌愛ユキ）</p>
+<p><em>verse 1（由歌愛ユキ演唱）</em></p>
+<p>ただの推理ごっこで、</p>
+<p><strong>只是一场推理游戏，</strong></p>
+<p>気持ちよくなっているだけ、</p>
+<p><strong>只是感觉变得愉快，</strong></p>
+<p>口先だけ立って、</p>
+<p><strong>只说不做，</strong></p>
+<p>文字の数は無駄に多い訳、</p>
+<p><strong>字数多得没有意义，</strong></p>
+<p>痛い、パッとしない、ただの芝居、</p>
+<p><strong>痛苦，毫无价值，只是表演，</strong></p>
+<p>文の上では一人前でも、</p>
+<p><strong>表面上看起来一个人可能很有能力，</strong></p>
+<p>作法は半人前だし、</p>
+<p><strong>但举止却不够成熟，</strong></p>
+<p>もう中はお話にならない、笑</p>
+<p><strong>内情已经不值得讨论了，笑</strong></p>
+<p>情弱ビジネスで王政、</p>
+<p><strong>感情脆弱的商业王政，</strong></p>
+<p>ネガで動いてる閉鎖系、</p>
+<p><strong>靠负面情绪运转的封闭系统，</strong></p>
+<p>偽情報だけ食わせとけ、</p>
+<p><strong>只要传播虚假信息，</strong></p>
+<p>辻褄が合ってればok、</p>
+<p><strong>只要符合逻辑就可以，</strong></p>
+<p>リテラシーなんて一切ない、</p>
+<p><strong>完全没有素养，</strong></p>
+<p>自分以外は正義じゃない、</p>
+<p><strong>除了自己，就没有正义，</strong></p>
+<p>その程度の精神性だから、</p>
+<p><strong>因为那种程度的精神性，</strong></p>
+<p>掴まされても一生気づかない。</p>
+<p><strong>就算被揭示了也永远不会察觉。</strong></p>
+<p>開かない金庫、見えないヒント、</p>
+<p><strong>打不开的保险箱，看不见的线索，</strong></p>
+<p>合わないピント、足りない深度、</p>
+<p><strong>焦点不合适，深度不足，</strong></p>
+<p>終わってるシード、埋まらないシート、</p>
+<p><strong>已经结束的种子，无法填满的位置，</strong></p>
+<p>止まらないヒート、揺れすぎなフィート、</p>
+<p><strong>停不下的热情，摇摆不定的步伐，</strong></p>
+<p>低解像なヒューリスティックに、</p>
+<p><strong>基于低分辨率的启发式方法，</strong></p>
+<p>甘えた循環論法、</p>
+<p><strong>简单的循环论证，</strong></p>
+<p>馬鹿の一つ覚えで繰り出す、</p>
+<p><strong>机械重复地表演</strong></p>
+<p>つまらんIQ5のOSINT。</p>
+<p><strong>无聊的智力为5的（IQ5）开源情报（OSINT）</strong></p>
+<p>verse2（vo. 結月ゆかり）</p>
+<p><em>verse 2（由結月ゆかり演唱）</em></p>
+<p>16進数は味があるし、</p>
+<p><strong>十六进制有其风味，</strong></p>
+<p>文だってなんか縦読みするし、</p>
+<p><strong>连文本也有垂直阅读的方式，</strong></p>
+<p>そこらのノイズもモールスだし、</p>
+<p><strong>那些噪音也是莫斯电码，</strong></p>
+<p>自分が本当と思えば本当だし、</p>
+<p><strong>只要自己认为是真的就是真的，</strong></p>
+<p>マジ杜撰すぎなディレクト、</p>
+<p><strong>真的是太敷衍的指导，</strong></p>
+<p>これがペーパーならばリジェクト、</p>
+<p><strong>如果这是论文的话，那就被拒绝了，</strong></p>
+<p>解法解答、ディフェクトばっかで、</p>
+<p><strong>解法解答，全是缺陷，</strong></p>
+<p>そこを探しても答えは無いよ、笑</p>
+<p><strong>即使你在那里寻找，答案也不存在的，笑，</strong></p>
+<p>はぁ、で、お前は何？</p>
+<p><strong>哎，那么，你是谁？</strong></p>
+<p>全失中の結果は何？</p>
+<p><strong>在完全失控的情况下，结果是什么？</strong></p>
+<p>反実仮想に逃げるのは何？</p>
+<p><strong>逃避反事实情境的意图是什么？</strong></p>
+<p>無視した相手の痛みは何？</p>
+<p><strong>忽视了别人的痛苦是什么？</strong></p>
+<p>不器用な社会参加、</p>
+<p><strong>笨拙的社交参与，</strong></p>
+<p>メンヘラ構ってちゃん、</p>
+<p><strong>精神不稳定的注意力寻求者，</strong></p>
+<p>正義感に溢れた、</p>
+<p><strong>充满正义感的，</strong></p>
+<p>インジャスティス・コレクター。</p>
+<p><strong>不公正的收藏家。</strong></p>
+<p>壊れた主知主義、ゴシップ好きすぎ、</p>
+<p><strong>破碎的自我意识，太过喜欢八卦，</strong></p>
+<p>言い切る口ぶり、スピリチュアルすぎ、</p>
+<p><strong>说得太坚决，太过灵性</strong></p>
+<p>世界歪めすぎ、共感性無さすぎ、</p>
+<p><strong>对世界的扭曲过度，缺乏太多共感，</strong></p>
+<p>ご勝手に、他人に迷惑はかけずに。</p>
+<p><strong>请随意行事，不要给他人添麻烦。</strong></p>
+<p>verse3（vo. 重音テト）</p>
+<p><em>verse 3（由重音テト演唱）</em></p>
+<p>自分の視点や感性、表現するのは一緒、</p>
+<p><strong>表达自己的观点和情感是一样的，</strong></p>
+<p>コンセンサスに、一石投げられるのも一緒、</p>
+<p><strong>在共识中，也一样可以投石一起，</strong></p>
+<p>けれどその在り方違うから、</p>
+<p><strong>但因为它的存在方式不同，</strong></p>
+<p>そのやり方が違うから、</p>
+<p><strong>因为执行的方法不同，</strong></p>
+<p>巨人の肩に重なってる、</p>
+<p><strong>站在巨人的肩膀上，</strong></p>
+<p>リスペクトの量が違うから。</p>
+<p><strong>因为尊重的程度不同。</strong></p>
+<p>事実は選択的に解釈しない。</p>
+<p><strong>事实不会被选择性地解释。</strong></p>
+<p>耳を塞いで抵抗しない。</p>
+<p><strong>不会堵住耳朵抵抗。</strong></p>
+<p>単純な二元化はしない。</p>
+<p><strong>不会将事情二元化。</strong></p>
+<p>ただ善悪では片付けない。</p>
+<p><strong>不要简单地把它归类为好或坏。</strong></p>
+<p>表現を追い求めてきたこの道に、</p>
+<p><strong>在我追求表达的这条道路上，</strong></p>
+<p>多面性の排除など存在しないから、</p>
+<p><strong>因为不存在排除多样性之类的事情，</strong></p>
+<p>毎日毎日生活の上の考えを、</p>
+<p><strong>每天都在思考生活中的事情，</strong></p>
+<p>言葉に起こし世に送り、</p>
+<p><strong>将其用言语表达并传达给世界，</strong></p>
+<p>正面から結果を受け入れていく。</p>
+<p><strong>坦然面对并接受结果。</strong></p>
+<p>ただただそうして得られた思考を整理し、</p>
+<p><strong>仅仅整理以这种方式获得的思绪，</strong></p>
+<p>更なる思想へ果たすだけ。</p>
+<p><strong>演变为更深层次的思想。</strong></p>
+<p>創造的にここから踏み出していく、</p>
+<p><strong>创造性地从这里迈出下一步，</strong></p>
+<p>この音がその証明。</p>
+<p><strong>这个声音就是那个证明。</strong></p>
+
+      </div>
+      
+      
+    
+    
+    
+    
+    
+    
+  
+    </body></html>

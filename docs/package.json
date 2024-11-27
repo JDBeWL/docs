@@ -1,0 +1,21 @@
+{
+  "name": "nest",
+  "version": "1.0.0",
+  "description": "> An awesome project.",
+  "main": "sw.js",
+  "scripts": {
+    "publish": "bash publish.sh",
+    "commit": "bash submit.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/sweetwisdom/blog.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/sweetwisdom/blog/issues"
+  },
+  "homepage": "https://gitlab.com/sweetwisdom/blog#readme"
+}

@@ -1,0 +1,13 @@
+top:
+  - class_name: user-saying
+    id_name: user-saying
+    name: 每日一言
+    icon: fas fa-heartbeat
+    order:
+    html: <script type="text/javascript" src="https://api.vvhan.com/api/ian?type=js"></script><script>vhan()</script>
+  - class_name: user-anime
+    id_name: user-anime
+    name: 每日二次元 
+    icon: fas fa-solid fa-dove
+    order:
+    html: <img src="https://api.vvhan.com/api/acgimg" width="100%">
