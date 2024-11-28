@@ -7,7 +7,7 @@
 * [音乐](/collection/music.md)
 * [游戏](/collection/game.md)
 *  **其他**
-* [**📖**](/entertainment/)
+* [**☕**](/entertainment/)
 * [翻译](/entertainment/translate.md)
 * [歌词](/entertainment/lyrics.md)
 * [EXP](/entertainment/Experimental.md)

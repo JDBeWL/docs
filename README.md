@@ -168,6 +168,7 @@
 version 2.0.0.1
 
 
-项目来自[docify-theme-nice](https://github.com/sweetwisdom/docify-theme-nice)
+主题项目来自[docify-theme-nice](https://github.com/sweetwisdom/docify-theme-nice)
+
 比之前的主题更加实用美观
 
