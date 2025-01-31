@@ -2047,10 +2047,10 @@ warning warning，快敲响铜锣（开战的钟声）
 和那装高贵的富人一对一对决
 
 一対一
- 一对一
+一对一
 
 一対一
- 一对一
+一对一
 
 一対一で勝負
 一对一决胜负
@@ -2431,106 +2431,106 @@ D&Dして loading中！
 
 ```lrc
 Getting lost at a red light it seems to me
-我仿佛在红灯前迷失了方向
+红灯前徘徊 如同困在时光裂隙
 
 Getting near to a dead end that don't exist
-靠近一个不存在的死胡同
+走向虚无的尽头 明知是幻象迷局
 
 Worrying all the things ahead of yourself
-对眼前一切感到担忧
+为未至的远方 忧心忡忡难自已
 
 But why? I don't get it at all
-但为何？我完全不明白
+为何执念？我始终无法参透
 
 Everything falls apart at some point in time
-所有事物在某个时刻都会分崩离析
+万物终将离散 不过时序轮转
 
 Gotta let go some of those fix itself in the meanwhile
-在此期间，必须放下一些事情让其自行解决
+不如放手任其自愈 静待破茧
 
 Even you, even me, we all have to rest
-即使是你，即使是我，我们也必须休息
+纵是你我 也需片刻栖息的港湾
 
 Please don't let this just go on
-请不要让这一切继续下去
+别让困局无止尽蔓延
 
 Just realize that you can pull this through, just look up
-只要意识到你能够度过难关，抬头仰望
+只需相信破晓将至 举目望天
 
 Between the sky's blue
-在蔚蓝的天空之间
+在蔚蓝与苍穹之间
 
 Let's paint the stars the hope that we have
-让我们将希望涂满星辰
+将希冀泼墨成璀璨星图
 
 Out there for them to see that we could be the things we dream
-让那里的人们看到我们可以成为梦想中的模样
+昭示世人 我们终成心之所向的模样
 
 Just gotta have faith (faith)
-只要有信念(信念)
+信念为引（信念为引）
 
 And those stars will reform into a constellation
-那些星星将重新排列成星座
+万千星辰终将重列成宿
 
 It will fall right into place, it's set and stoned
-它们将如期落入各自的位置，坚如磐石
+星轨终将归位 如宿命般永恒
 
 When time arrives (when time arrives)
-当时机成熟（当时机成熟）
+当时机降临（当时机降临）
 
 You will be just fine like those stars you choose
-你将像你选择的那些星星一样美好
+你将如所选择的星辰 闪耀如初
 
 Between the blue and sky
-在蔚蓝的天空之间
+在蔚蓝与苍穹之间
 
 No matter how long will it take, no matter how hard will it be
-不管需要多长时间，不管会有多大的困难
+纵使道阻且长 纵使荆棘载途
 
 I will keep on looking over you while I still got your back
-我会继续守护你，一直在你身后支持你
+我必守望如初 做你永夜的星图
 
 Our journey is not over, I'll keep pushing even if you are fine
-我们的旅程还没有结束，即使你没事，我也会不断努力向前
+征途未竟 即便你已从容 我仍将破浪
 
 Between the sky's blue
-在蔚蓝的天空之间
+在蔚蓝与苍穹之间
 
 It isn't so faraway to reach it
-它并非遥不可及
+彼方并非遥不可及
 
 I know I'm not alone to be here
-我知道我不是孤身一人在此
+我知道 在此时此刻 我并非孤单一人
 
 Look up, that's where we belong
-抬头望去，那才是我们的归宿
+抬头望去 那是我们应归之地
 
 Between the sky's blue
-在蔚蓝的天空之间
+在蔚蓝与苍穹之间
 
 Let's paint the stars the hope that we have
-让我们将希望涂满星辰
+将希冀泼墨成璀璨星图
 
 Out there for them to see that we could be the things we dream
-让那里的人们看到我们可以成为梦想中的模样
+昭示世人 我们终成心之所向的模样
 
 Just gotta have faith (faith)
-只要有信念(信念)
+信念为引（信念为引）
 
 And those stars will reform into a constellation
-那些星星将重新排列成星座
+万千星辰终将重列成宿
 
 It will fall right into place, it's set and stoned
-它们将如期落入各自的位置，坚如磐石
+星轨终将归位 如宿命般永恒
 
 When time arrives (when time arrives)
-当时机成熟（当时机成熟）
+当时机降临（当时机降临）
 
 You will be just fine like those stars you choose
-你将像你选择的那些星星一样美好
+你会如所选星辰般闪耀 光芒四射
 
 Between the blue and sky
-在蔚蓝的天空之间
+在蔚蓝与苍穹之间
 ```
 
 ---
