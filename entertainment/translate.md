@@ -839,6 +839,210 @@ Think about the "truth"
 
 ---
 
+#### PRIMARY! (feat. 初音ミク)
+
+```lrc
+昨日のこと
+昨日种种
+
+なんでもないとか言わないで
+何必故作云淡风轻
+
+思われるか
+是猜忌蔓延
+
+落とされるかの探り合い
+还是试探终局前的疏离
+
+意地悪なウソの最後は
+刻薄谎言编织的终章
+
+問いのIRONY、心のNEED
+诘问的讽喻 灵魂的渴求
+
+一つ一つ数を増してく
+一个一个地增长
+
+重なり続く、この凡なモチベ
+层层累积的凡庸执念
+
+導く答え 心ざわめく
+指引的答案 令人心旌摇曳
+
+私は...
+我啊...
+
+駆け引きが曖昧 迷子になって進行中
+在暧昧博弈中迷失方向
+
+だけど
+却仍
+
+あ? イタい態度に出ちゃって深呼吸
+啊~表现得真糟糕 深呼吸
+
+他愛ない、愛ない言葉信じ無問題
+那些空洞的蜜语 轻信也无妨
+
+弄ばないで！
+别戏弄我！
+
+ねぇ容赦ないね!!
+呐，好狠心啊！
+
+私だって
+明明我也...
+
+私だって...
+明明我也...
+
+私だって...！
+明明我也...！
+
+焦ったい恋の駆け引きは勘弁
+这令人焦灼的恋爱博弈就请放过吧
+
+勝ち誇ったって
+纵使占尽上风
+
+濁したって
+虚与委蛇
+
+とぼけたって
+故作懵懂
+
+最後は笑うから ←PRIMARY!!!
+最终都将付之一笑 ←PRIMARY!!!
+
+一人の夜
+独坐永夜
+
+矛盾、嫌悪の繰り返し
+矛盾与厌弃循环往复
+
+自己否定と利己主義の折衷案探し
+在自我否定与利己主义间寻找折衷的出路
+
+ふやけた顔見ないで
+莫看我倦容憔悴
+
+このDELUSION
+这DELUSION（妄想）
+
+詰まるところは
+归根结底是
+
+一つ一つ戒を解いていく
+一个一个地解开禁忌
+
+高まり続く この妙なFORMULA
+持续攀升的奇妙公式
+
+導く答えは淡く色めく
+指引的答案 微微闪耀
+
+私は...
+我啊...
+
+投げやりに「無い無いw」 対語になって懺悔中
+漫不经心地说‘没有没有w’ 正在进行自我反省对话中
+
+そして再々最後になって完結、惨め
+然后再一次最后结束，可悲
+
+毎々々度のことでもうナンセンス
+周而复始的荒诞戏码
+
+意地なだけなんて騙るのはなんで？
+光是执拗又能骗谁呢？
+
+私だって
+明明我也...
+
+私だって...
+明明我也...
+
+私だって...!
+明明我也...！
+
+くだんない病み期は No thank you!
+矫情的忧郁期 No thank you!
+
+マジ凹んだって
+纵使陷入消沉
+
+悩んだって
+辗转反侧
+
+求めたって
+苦苦追寻
+
+最後は奪うから ←PRIMARY!!!
+终将被尽数掠夺 ←PRIMARY!!!
+
+一つ一つ数を増してく
+一个一个地增长
+
+彩り続く、この妙なモチベ
+色彩不断延伸，这奇特的动力
+
+導く答え 心ざわめく
+指引的答案 令人心潮翻涌
+
+私は...
+我啊...
+
+駆け引きが
+在暧昧博弈中
+
+駆け引きが…
+在迷途里徘徊
+
+曖昧 迷子になって進行中
+明争暗斗模糊不清 迷失在前进中
+
+だけど
+却仍
+
+あ? イタい態度に出ちゃって深呼吸
+啊~表现得真糟糕 深呼吸
+
+他愛ない、愛ない言葉信じ無問題
+那些空洞的蜜语 轻信也无妨
+
+弄ばないで！
+别戏弄我！
+
+ねぇ容赦ないね
+呐，好狠心啊！
+
+私だって
+明明我也...
+
+私だって...
+明明我也...
+
+私だって...！
+明明我也...！
+
+焦ったい恋の企ては勘弁
+这令人焦灼的恋爱博弈就请放过吧
+
+ただシャイだって
+纵使羞涩难当
+
+言い訳なんて
+借口牵强
+
+その場凌ぎなんで
+敷衍了事 
+
+最後は悩め！バカ！！ ←PRIMARY!!!
+最终仍要为此困扰！笨蛋！！←PRIMARY!!!
+```
+
+---
+
 ### Mwk
 
 #### Day of Beginning
@@ -3048,5 +3252,127 @@ Ashes, ashes
 
 They all fall down
 他们全都倒下了
+```
+
+---
+
+### Grabbitz
+
+#### Pain Killer
+
+```lrc
+Every day becomes the same
+日复一日皆如常
+
+Hate myself. I can't complain
+自我厌弃，却无从怨起
+
+Now I'm numb and you're to blame
+麻木不仁，全因你无情
+
+My new normal feels so strange
+这陌生日常如影随形
+
+Kill my pain
+解脱这苦痛
+
+Cause it's killing me
+它正蚕食我残躯
+
+And sometimes that's okay
+任其肆虐 又何尝不可
+
+The pills are fake
+药石无灵
+
+They don't do to me what you do to my brain
+难及你侵蚀我心智
+
+What you do to my brain
+你种下的蛊
+
+When nothing feels the same
+让世界失序
+
+Come on over, kill my pain
+快来止痛疗伤
+
+Come on over, kill my pain
+快来止痛疗伤
+
+Kill my pain
+速来抚平创伤
+
+Kill my pain
+速来抚平创伤
+
+Kill my
+速来抚平
+
+Kill my pain
+速来抚平创伤
+
+What you do to my brain
+你种下的蛊
+
+When nothing feels the same
+让世界失序
+
+Come on over, kill my pain
+快来止痛疗伤
+
+Come on over, kill my pain
+快来止痛疗伤
+
+It's been awhile since you've been gone
+自你抽身离去后
+
+It's got me lonely and withdrawn.
+孤独筑成茧房困守
+
+Just come back for one more day
+恳求再予朝夕相候
+
+And give me one more chance to say
+容我最后道白诉衷
+
+Kill my pain
+速来抚平创伤
+
+Cause it's killing me
+它正蚕食我残躯
+
+And sometimes that's okay
+任其肆虐 又何尝不可
+
+The pills are fake
+药石无灵
+
+They don't do to me what you do to my brain
+难及你侵蚀我心智
+
+What you do to my brain
+你种下的蛊
+
+When nothing feels the same
+让世界失序
+
+Come on over, kill my pain
+快来止痛疗伤
+
+Come on over, kill my pain
+快来止痛疗伤
+
+Come on over, kill my pain
+快来止痛疗伤
+
+Come on over, kill my pain
+快来止痛疗伤
+
+Kill my pain
+速来抚平创伤
+
+Kill my pain
+速来抚平创伤
 ```
 
