@@ -82,8 +82,32 @@
         navigator.serviceWorker.register('sw.js')
       }
     </script>
+    <div class="aplayer no-destroy" 
+          data-id="8799001869" 
+          data-server="netease" 
+          data-type="playlist" 
+          data-mini="true"
+          data-listfolded="true" 
+          data-order="random" 
+          data-preload="true" 
+          data-autoplay="false" 
+          data-volume="0.7"
+          data-theme="#b7daff"
+          muted></div>
+  </div>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css" media="print"
+    onload="this.media='all'">
+    <script src="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/gh/metowolf/MetingJS@1.2/dist/Meting.min.js"></script>
   </body>
   <style>
+    .aplayer.no-destroy {
+      position: fixed; 
+      bottom: 20px; 
+      right: 20px; 
+      z-index: 9999; 
+      box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2); 
+    }
     :root {
       --dark-base-background: #27272b;
   
