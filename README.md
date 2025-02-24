@@ -1,16 +1,22 @@
-<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=1355648711&bvid=BV1mz421b72E&cid=1582253188&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="640px" height="360px"></iframe>
+><div style="font-size: 20px;color:rgba(44, 105, 169, 0.69);font-weight:bold;">
+    「ね、なぜ旅に出るの？」<br/><br/>
+    「呐，为何要踏上旅途？」
+</div>
 
-**引用cheems主人的一段话**
+<details>
+<summary>引用cheems主人的一段话</summary>
 
-“不要难过，请记住巴尔茨带给世界的欢乐。”
+    “不要难过，请记住巴尔茨带给世界的欢乐。”
  
-“一只脸圆圆的笑脸连接着你我他的柴犬，他在大流行病期间帮助了很多人，也给你们很多人带来了很多欢乐，但现在它的任务已经完成。”
+    “一只脸圆圆的笑脸连接着你我他的柴犬，他在大流行病期间帮助了很多人，
+    也给你们很多人带来了很多欢乐，但现在它的任务已经完成。”
 
-“我相信他在天空自由奔跑，和他的新朋友吃了很多美食。他会永远在我心里。”
+    “我相信他在天空自由奔跑，和他的新朋友吃了很多美食。他会永远在我心里。”
 
-“我希望他能继续把欢乐带给网络世界的每个人，这是我唯一谦卑的要求。”
+    “我希望他能继续把欢乐带给网络世界的每个人，这是我唯一谦卑的要求。”
 
->我希望找到这里的人能先看完这里再来看之后的东西
+</details>
+
 
 **cheems，你好呀。**
 
@@ -165,7 +171,7 @@
 **兰花，是随风而动，却弯曲下垂，虽是晶莹剔透，但也是撑霆裂月，终有一天会污浊色腥，很像那个折了翼的天使。**
 
 ---
-version 2.0.0.1
+version 2.0.1.2
 
 
 主题项目来自[docify-theme-nice](https://github.com/sweetwisdom/docify-theme-nice)

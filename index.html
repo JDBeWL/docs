@@ -24,7 +24,7 @@
       window.$docsify = {
         relativePath: true,
         repo: 'https://github.com/jdbewl',
-        name: 'MOViNG ON',
+        name: 'A.R.I.A',
         loadNavbar: true,
         loadSidebar: true,
         coverpage: true,
@@ -35,7 +35,6 @@
           crossChapterText: true,
         },
         themeColor: '#3ec4ff',
-        loadSidebar: true,
         subMaxLevel: 2,
         loadFooter: true,
         notFoundPage: '404.md',
@@ -45,14 +44,12 @@
           successText: 'Copied',
         },
         auto2top: true,
-        search: 'auto', // 默认值
-        // 支持本地化
         search: 'auto',
-        timeCreated: {
-          text: "<div class='time-created'><span class='author'>LIGMATV</span> • <span class='created' title='Tanggal dibuat'>{docsify-created}</span></div>",
-          formatUpdated: '{YYYY}/{MM}/{DD}',
-          whereToPlace: 'top', // top || bottom
-        },
+        created: { // 正确配置 created 插件
+          text: "<div class='time-created'><span class='author'>LIGMATV</span> • <span class='created' title='创建时间'>{docsify-created}</span></div>",
+          formatCreated: '{YYYY}/{MM}/{DD}',
+          whereToPlace: 'bottom'
+        }
       }
     </script>
     <!-- Docsify v4 -->
