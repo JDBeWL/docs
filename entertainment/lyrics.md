@@ -4,3 +4,4 @@
 
 
 <p class="tip">废弃页面</p>
+<p class="warn">test<p>
