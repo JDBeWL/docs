@@ -91,6 +91,7 @@ button[onclick="docsifyDarkSwitcher()"] {
 }
 .docsify-dark-mode .markdown-section p.tip {
     background: var(--dark-tip-background);
+    color: var(--dark-code-color);
 }
 .docsify-dark-mode .markdown-section p.warn {
     background: var(--dark-warn-background);

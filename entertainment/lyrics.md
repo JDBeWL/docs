@@ -2,6 +2,4 @@
 
 > 重新更新页面 排版更加合理
 
-
-<p class="tip">废弃页面</p>
-<p class="warn">test<p>
+<p class="warn">废弃页面<p>

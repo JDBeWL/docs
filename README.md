@@ -1,11 +1,3 @@
-<style>
-    .text{
-        font-size:17px;
-        font-weight:bold;
-        letter-spacing:0.8px;
-    }
-</style>
-
 ><div style="font-size: 20px;color:rgba(44, 105, 169, 0.69);font-weight:bold;">
     「ね、なぜ旅に出るの？」<br/><br/>
     「呐，为何要踏上旅途？」
