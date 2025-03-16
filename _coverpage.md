@@ -8,6 +8,6 @@
 
 
 
-[blog-old](https://jdbewl.github.io/)
-[blog-new](https://jdbewl.github.io/async)
+[blog-vitepress](https://jdbewl.github.io/docs-vite)
+[blog-async](https://jdbewl.github.io/async)
 [Start](README)
