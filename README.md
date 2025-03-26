@@ -167,10 +167,6 @@
 * <p class="text">你知道的都是真相。只可惜那些并不是真相的全部。</p>
 
 ---
-version 2.0.1.3
+version 2.0.1.4
 
-
-主题项目来自[docify-theme-nice](https://github.com/sweetwisdom/docify-theme-nice)
-
-比之前的主题更加实用美观
 
